@@ -97,23 +97,29 @@ rebuild_all.cmd
 
 ### 部署到 Vercel（推荐步骤）
 
-1. 打开 [vercel.com](https://vercel.com) ，用 **GitHub** 登录。
-2. **Add New… → Project**，选中本仓库（例如 `octopath-traveler-tracker`）。
-3. Framework Preset 选 **Other**（或保持默认）；**不要**填 Build Command；Output 留空即可（静态仓库直接托管）。
-4. 确认 Root Directory 为仓库根目录（有 `vercel.json` 的那一层）。
-5. 点 **Deploy**。完成后首页即检查器；示例存档路径为 `/OctopathTrackerOutput/samples/SaveData1.sav`。
+仓库地址：<https://github.com/Su-huanlin/octopath-traveler-tracker>
 
-用 CLI 时（本机已装 [Vercel CLI](https://vercel.com/docs/cli)）：
+1. 打开 [vercel.com/new](https://vercel.com/new) ，用 **GitHub** 登录并授权访问该仓库。
+2. **Import** `Su-huanlin/octopath-traveler-tracker`。
+3. 设置建议：
+   - **Framework Preset**: Other
+   - **Build Command**: 留空
+   - **Output Directory**: 留空
+   - **Install Command**: 留空  
+   Root Directory 保持默认（仓库根，含 `vercel.json`）。
+4. 点 **Deploy**。约一分钟后得到 `*.vercel.app` 域名；打开首页即检查器。
+5. 在页面上点 **加载示例存档** 验证；也可自己选本机 `.sav`。
+
+之后每次 `git push` 到 `main`，Vercel 会自动重新部署。
+
+用 CLI 时（可选，需本机已装 Node.js）：
 
 ```bash
 npm i -g vercel
-cd "仓库根目录"
-vercel
-# 正式生产域名
+cd /path/to/octopath-traveler-tracker
+vercel login
 vercel --prod
 ```
-
-每次改完 HTML 后：推送到 GitHub 的 `main`，若已连接 Vercel，会自动重新部署。
 
 ---
 
