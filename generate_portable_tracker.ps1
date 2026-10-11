@@ -962,7 +962,8 @@ $html = @"
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
-  <title>Octopath Traveler 1 Collectible Tracker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>&#20843;&#26041;&#26053;&#20154;1 &#25910;&#38598;&#26816;&#26597;&#22120;</title>
   <style>
     /* ----- Theme variables: dark (default), light (soft cream-white), sepia (warm reading) ----- */
     :root {
@@ -1077,24 +1078,25 @@ $html = @"
       --code-fg: #4b6e8a;
     }
 
-    body { font-family: system-ui, "Microsoft YaHei", sans-serif; margin: 0; background: var(--bg); color: var(--text); font-size: 15px; line-height: 1.55; transition: background .25s ease, color .25s ease; }
-    .page { max-width: 1180px; margin: 0 auto; padding: 28px 24px 56px; }
-    h1 { text-align: center; margin: 0 0 14px; font-size: 26px; }
-    .summary,.controls { display:flex; flex-wrap:wrap; gap:12px; margin:18px 0; align-items:center; justify-content:center; }
-    .upload-card { width:min(760px, 100%); margin:18px auto; padding:16px; display:flex; flex-wrap:wrap; gap:12px; align-items:center; justify-content:center; background:var(--panel-card); border:1px solid var(--border-mid); border-radius:14px; box-shadow:0 12px 32px rgba(0,0,0,.18); }
+    body { font-family: system-ui, "Microsoft YaHei", sans-serif; margin: 0; background: var(--bg); color: var(--text); font-size: 13px; line-height: 1.45; transition: background .25s ease, color .25s ease; }
+    .page { max-width: 1100px; margin: 0 auto; padding: 16px 16px 40px; }
+    h1 { text-align: center; margin: 0 0 8px; font-size: 22px; }
+    .summary,.controls { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0; align-items:center; justify-content:center; }
+    .upload-card { width:min(760px, 100%); margin:12px auto; padding:12px; display:flex; flex-wrap:wrap; gap:8px; align-items:center; justify-content:center; background:var(--panel-card); border:1px solid var(--border-mid); border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,.16); }
     .upload-card .note { margin:0; flex-basis:100%; }
-    .help-card { width:min(900px, 100%); margin:16px auto; background:var(--panel-help); border:1px solid var(--border-mid); border-radius:12px; padding:12px 14px; }
+    #saveFile { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
+    .help-card { width:min(900px, 100%); margin:12px auto; background:var(--panel-help); border:1px solid var(--border-mid); border-radius:10px; padding:10px 12px; }
     .help-card summary { cursor:pointer; font-weight:700; }
-    .help { color:var(--text-soft); line-height:1.7; text-align:left; }
+    .help { color:var(--text-soft); line-height:1.6; text-align:left; }
     .help code, code { color:var(--code-fg); }
-    .pill { background:var(--panel-card); border:1px solid var(--border-mid); border-radius:999px; padding:9px 14px; font-size:14px; }
-    input,select,button { background:var(--input-bg); color:var(--text); border:1px solid var(--border-strong); border-radius:8px; padding:9px 12px; font-size:14px; font-family: inherit; }
+    .pill { background:var(--panel-card); border:1px solid var(--border-mid); border-radius:999px; padding:6px 11px; font-size:12px; }
+    input,select,button { background:var(--input-bg); color:var(--text); border:1px solid var(--border-strong); border-radius:8px; padding:6px 10px; font-size:13px; font-family: inherit; }
     button { cursor:pointer; transition: background .12s, border-color .12s, transform .08s; }
     button:hover { background:var(--btn-hover-bg); border-color:var(--text-dim); }
     button:active { background:var(--btn-active-bg); transform: translateY(1px); }
-    input[type=search] { width:min(560px, 90vw); }
-    .note { color:var(--text-muted); line-height:1.6; max-width:1100px; margin-left:auto; margin-right:auto; text-align:center; }
-    #kindAchieveNote { text-align:left; max-width:1100px; margin:10px auto 0; color:var(--accent-warm); font-size:17px; line-height:1.5; }
+    input[type=search] { width:min(480px, 90vw); }
+    .note { color:var(--text-muted); line-height:1.5; max-width:1100px; margin-left:auto; margin-right:auto; text-align:center; }
+    #kindAchieveNote { text-align:left; max-width:1100px; margin:8px auto 0; color:var(--accent-warm); font-size:14px; line-height:1.45; }
     .warn { color:var(--accent-warm); }
 
     /* ----- Theme picker (top-right floating) ----- */
@@ -1104,8 +1106,8 @@ $html = @"
     .theme-btn.active { background: var(--btn-active-bg); color: var(--text); border-color: var(--border-strong); }
 
     .regions { display:flex; flex-direction:column; gap:22px; }
-    .region { background:var(--panel-region); border:1px solid var(--border); border-radius:14px; padding:14px 18px 16px; }
-    .region > summary { cursor:pointer; list-style:none; padding:8px 4px; display:flex; align-items:center; gap:12px; font-size:20px; font-weight:700; }
+    .region { background:var(--panel-region); border:1px solid var(--border); border-radius:12px; padding:10px 14px 12px; }
+    .region > summary { cursor:pointer; list-style:none; padding:6px 2px; display:flex; align-items:center; gap:10px; font-size:17px; font-weight:700; }
     .region > summary::-webkit-details-marker { display:none; }
     .region > summary::before { content:"\25b6"; font-size:13px; color:var(--text-muted); transition: transform .15s; }
     .region[open] > summary::before { transform: rotate(90deg); }
@@ -1114,8 +1116,8 @@ $html = @"
     .region-badge.all-cleared  { background:var(--badge-cleared-bg); border-color:var(--badge-cleared-border); color:var(--badge-cleared-fg); }
 
     .towns { display:flex; flex-direction:column; gap:14px; margin-top:10px; }
-    .town  { background:var(--panel-town); border:1px solid var(--border); border-radius:12px; padding:10px 16px 12px; }
-    .town > summary { cursor:pointer; list-style:none; padding:8px 4px; display:flex; align-items:center; gap:12px; font-weight:600; font-size:17px; }
+    .town  { background:var(--panel-town); border:1px solid var(--border); border-radius:10px; padding:8px 12px 10px; }
+    .town > summary { cursor:pointer; list-style:none; padding:6px 2px; display:flex; align-items:center; gap:10px; font-weight:600; font-size:15px; }
     .town > summary::-webkit-details-marker { display:none; }
     .town > summary::before { content:"\25b6"; font-size:11px; color:var(--text-muted); transition: transform .15s; }
     .town[open] > summary::before { transform: rotate(90deg); }
@@ -1183,6 +1185,7 @@ $html = @"
   </p>
   <div class="upload-card">
     <input id="saveFile" type="file" accept=".sav">
+    <button id="pickSaveFile" type="button">&#36873;&#25321;&#23384;&#26723;&#25991;&#20214;</button>
     <button id="loadSampleSave" type="button">&#21152;&#36733;&#31034;&#20363;&#23384;&#26723;</button>
     <button id="clearSave">&#28165;&#38500;&#24403;&#21069;&#23384;&#26723;&#29366;&#24577;</button>
     <span id="fileInfo" class="note">&#23578;&#26410;&#36873;&#25321;&#23384;&#26723;</span>
@@ -2236,6 +2239,9 @@ function render() {
   }
 }
 
+document.querySelector("#pickSaveFile").addEventListener("click", () => {
+  document.querySelector("#saveFile").click();
+});
 document.querySelector("#saveFile").addEventListener("change", async event => {
   const file = event.target.files && event.target.files[0];
   if (!file) return;
