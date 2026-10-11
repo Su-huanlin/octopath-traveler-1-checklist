@@ -2327,6 +2327,11 @@ if (Test-Path -LiteralPath $sampleSrc) {
   Write-Host "WARN: samples\SaveData1.sav missing; sample-load button will fail until you add it."
 }
 
+# Portfolio / Pages entry: same build also published as repo-root index.html
+$RootIndex = Join-Path $PSScriptRoot "index.html"
+Copy-Item -LiteralPath $OutHtml -Destination $RootIndex -Force
+Write-Host "Also wrote $RootIndex"
+
 Write-Host "Wrote $OutHtml ($($entries.Count) entries, $($enemySpawnEntries.Count) enemy spawns, $($regionOrder.Count) regions)"
 
 $diagLines = New-Object System.Collections.Generic.List[string]

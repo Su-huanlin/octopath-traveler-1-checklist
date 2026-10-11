@@ -1,8 +1,8 @@
-# Game dump / local reverse-engineering trees (huge)
+# Game dump / editor trees (huge, local only)
 afb02f5bbd8d0d94fe47e171a61cd51ee2ffeb73/
 Octopath_Traveler 1/
 
-# Personal working saves at repo root (keep samples/)
+# Local working saves
 /SaveData1.sav
 *.sav.bak
 
@@ -10,26 +10,31 @@ Octopath_Traveler 1/
 *.log
 debug.log
 
-# Probe / debug artifacts under output
-OctopathTrackerOutput/_*
-OctopathTrackerOutput/*.csv
-OctopathTrackerOutput/*.txt
-OctopathTrackerOutput/*.sav
-OctopathTrackerOutput/*.js
-OctopathTrackerOutput/patch_*.cmd
-OctopathTrackerOutput/run_probes.cmd
-OctopathTrackerOutput/check_towns.ps1
-OctopathTrackerOutput/差分文件/
-OctopathTrackerOutput/octopath_collectibles.html
-OctopathTrackerOutput/generate_portable_tracker_log.txt
+# Generator scratch / probe leftovers (not part of the public app)
+OctopathTrackerOutput/
+probe_*.ps1
+probe_*.cmd
+extract_*.ps1
+extract_*.cmd
+correlate_*.ps1
+correlate_*.cmd
+diff_*.ps1
+diff_*.cmd
+dump_*.ps1
+dump_*.cmd
+inspect_*.ps1
+inspect_*.cmd
+list_static_*.ps1
+list_static_*.cmd
+generate_auto_tracker.ps1
+generate_auto_tracker.cmd
+octopath_tracker_generate.ps1
+rebuild_all.cmd
+run_all_checks.ps1
+run_all_checks.cmd
+build_hidden_item_hints.ps1
 
-# Keep published app assets (do not ignore these)
-!OctopathTrackerOutput/octopath_tracker_portable.html
-!OctopathTrackerOutput/index.html
-!OctopathTrackerOutput/samples/
-!OctopathTrackerOutput/samples/**
-
-# Editor / OS junk
+# Editor / OS
 .DS_Store
 Thumbs.db
 .vscode/
