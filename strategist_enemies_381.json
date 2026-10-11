@@ -1,0 +1,9766 @@
+[
+  {
+    "enemy_id_num": 1,
+    "enemy_key": "ENE_Mou_N_001",
+    "name_en": "Highland Ratkin I",
+    "name": "山丘鼠人Ⅰ",
+    "level": 1,
+    "weapon_weak": 21,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 2,
+    "enemy_key": "ENE_Mou_N_002",
+    "name_en": "Highland Ratkin II",
+    "name": "山丘鼠人Ⅱ",
+    "level": 3,
+    "weapon_weak": 21,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 3,
+    "enemy_key": "ENE_Mou_N_003",
+    "name_en": "Highland Ratkin III",
+    "name": "山丘鼠人Ⅲ",
+    "level": 13,
+    "weapon_weak": 18,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 4,
+    "enemy_key": "ENE_Mou_N_004",
+    "name_en": "Highland Ratkin IV",
+    "name": "山丘鼠人Ⅳ",
+    "level": 17,
+    "weapon_weak": 17,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 5,
+    "enemy_key": "ENE_Mou_N_005",
+    "name_en": "Highland Ratkin V",
+    "name": "山丘鼠人Ⅴ",
+    "level": 18,
+    "weapon_weak": 17,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 6,
+    "enemy_key": "ENE_Mou_N_006",
+    "name_en": "Highland Ratkin VI",
+    "name": "山丘鼠人Ⅵ",
+    "level": 27,
+    "weapon_weak": 10,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 7,
+    "enemy_key": "ENE_Mou_N_007",
+    "name_en": "Highland Ratking I",
+    "name": "山丘大鼠人Ⅰ",
+    "level": 38,
+    "weapon_weak": 34,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 8,
+    "enemy_key": "ENE_Mou_N_008",
+    "name_en": "Highland Ratking II",
+    "name": "山丘大鼠人Ⅱ",
+    "level": 42,
+    "weapon_weak": 34,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 9,
+    "enemy_key": "ENE_Mou_N_009",
+    "name_en": "Highland Ratking III",
+    "name": "山丘大鼠人Ⅲ",
+    "level": 43,
+    "weapon_weak": 5,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 10,
+    "enemy_key": "ENE_Mou_N_010",
+    "name_en": "Rockadillo",
+    "name": "岩犰狳",
+    "level": 4,
+    "weapon_weak": 9,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 11,
+    "enemy_key": "ENE_Mou_N_011",
+    "name_en": "Giant Falcon",
+    "name": "大游隼",
+    "level": 2,
+    "weapon_weak": 22,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 12,
+    "enemy_key": "ENE_Mou_N_012",
+    "name_en": "Highland Goat",
+    "name": "哈伊兰多山羊",
+    "level": 18,
+    "weapon_weak": 3,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 13,
+    "enemy_key": "ENE_Mou_N_013",
+    "name_en": "Army Ant",
+    "name": "咬噬蚁",
+    "level": 6,
+    "weapon_weak": 13,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 14,
+    "enemy_key": "ENE_Mou_N_014",
+    "name_en": "Shaggy Aurochs",
+    "name": "粗毛牛",
+    "level": 21,
+    "weapon_weak": 10,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 15,
+    "enemy_key": "ENE_Mou_N_015",
+    "name_en": "Wild Weasel",
+    "name": "野鼬鼠",
+    "level": 37,
+    "weapon_weak": 8,
+    "magic_weak": 6,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 17,
+    "enemy_key": "ENE_Mou_N_017",
+    "name_en": "Lightning Elemental",
+    "name": "雷元素",
+    "level": 35,
+    "weapon_weak": 0,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 18,
+    "enemy_key": "ENE_Mou_N_018",
+    "name_en": "Winged Serpent",
+    "name": "蛇鸟",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 19,
+    "enemy_key": "ENE_Mou_N_019",
+    "name_en": "Devourer of Dreams",
+    "name": "噬梦",
+    "level": 65,
+    "weapon_weak": 1,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 20,
+    "enemy_key": "ENE_Mou_N_020",
+    "name_en": "Dread Falcon",
+    "name": "大游隼异种",
+    "level": 11,
+    "weapon_weak": 22,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 21,
+    "enemy_key": "ENE_Mou_N_021",
+    "name_en": "Dread Viper",
+    "name": "鳞蛇异种",
+    "level": 12,
+    "weapon_weak": 10,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 22,
+    "enemy_key": "ENE_Mou_N_022",
+    "name_en": "Mountain Goat",
+    "name": "山羊",
+    "level": 35,
+    "weapon_weak": 3,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 24,
+    "enemy_key": "ENE_Mou_N_024",
+    "name_en": "Blood Remnant",
+    "name": "古代遗物（兽）・赤型",
+    "level": 38,
+    "weapon_weak": 11,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 25,
+    "enemy_key": "ENE_Mou_N_025",
+    "name_en": "Dark Remnant",
+    "name": "古代遗物（兽）・黑型",
+    "level": 38,
+    "weapon_weak": 11,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 26,
+    "enemy_key": "ENE_Mou_N_026",
+    "name_en": "Shadow Raven",
+    "name": "暗乌鸦",
+    "level": 40,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 27,
+    "enemy_key": "ENE_Mou_N_027",
+    "name_en": "Demon Goat",
+    "name": "狂战羊",
+    "level": 45,
+    "weapon_weak": 3,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 28,
+    "enemy_key": "ENE_Mou_N_028",
+    "name_en": "Dire Army Ant",
+    "name": "咬噬蚁异种",
+    "level": 15,
+    "weapon_weak": 13,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 29,
+    "enemy_key": "ENE_Mou_E_001",
+    "name_en": "Brigand I",
+    "name": "山贼Ⅰ",
+    "level": 7,
+    "weapon_weak": 5,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 30,
+    "enemy_key": "ENE_Mou_E_002",
+    "name_en": "Brigand II",
+    "name": "山贼Ⅱ",
+    "level": 8,
+    "weapon_weak": 5,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 31,
+    "enemy_key": "ENE_Mou_E_003",
+    "name_en": "Brigand III",
+    "name": "山贼Ⅲ",
+    "level": 14,
+    "weapon_weak": 5,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 32,
+    "enemy_key": "ENE_For_N_001",
+    "name_en": "Forest Ratkin I",
+    "name": "森林鼠人Ⅰ",
+    "level": 1,
+    "weapon_weak": 12,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 33,
+    "enemy_key": "ENE_For_N_002",
+    "name_en": "Forest Ratkin II",
+    "name": "森林鼠人Ⅱ",
+    "level": 3,
+    "weapon_weak": 12,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 34,
+    "enemy_key": "ENE_For_N_003",
+    "name_en": "Forest Ratkin III",
+    "name": "森林鼠人Ⅲ",
+    "level": 13,
+    "weapon_weak": 10,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 35,
+    "enemy_key": "ENE_For_N_004",
+    "name_en": "Forest Ratkin IV",
+    "name": "森林鼠人Ⅳ",
+    "level": 22,
+    "weapon_weak": 9,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 36,
+    "enemy_key": "ENE_For_N_005",
+    "name_en": "Forest Ratkin V",
+    "name": "森林鼠人Ⅴ",
+    "level": 23,
+    "weapon_weak": 9,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 37,
+    "enemy_key": "ENE_For_N_006",
+    "name_en": "Forest Ratkin VI",
+    "name": "森林鼠人Ⅵ",
+    "level": 24,
+    "weapon_weak": 10,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 38,
+    "enemy_key": "ENE_For_N_007",
+    "name_en": "Forest Ratking I",
+    "name": "森林大鼠人Ⅰ",
+    "level": 37,
+    "weapon_weak": 36,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 39,
+    "enemy_key": "ENE_For_N_008",
+    "name_en": "Forest Ratking II",
+    "name": "森林大鼠人Ⅱ",
+    "level": 42,
+    "weapon_weak": 36,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 40,
+    "enemy_key": "ENE_For_N_009",
+    "name_en": "Forest Ratking III",
+    "name": "森林大鼠人Ⅲ",
+    "level": 43,
+    "weapon_weak": 9,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 41,
+    "enemy_key": "ENE_For_N_010",
+    "name_en": "Marmot",
+    "name": "土拨鼠",
+    "level": 4,
+    "weapon_weak": 48,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 42,
+    "enemy_key": "ENE_For_N_011",
+    "name_en": "Shambling Weed",
+    "name": "蠢动的植物",
+    "level": 19,
+    "weapon_weak": 9,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 43,
+    "enemy_key": "ENE_For_N_012",
+    "name_en": "Giant Boar",
+    "name": "大牙野猪",
+    "level": 18,
+    "weapon_weak": 17,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 44,
+    "enemy_key": "ENE_For_N_013",
+    "name_en": "Howler",
+    "name": "咆哮者",
+    "level": 16,
+    "weapon_weak": 18,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 45,
+    "enemy_key": "ENE_For_N_014",
+    "name_en": "Mutant Mushroom",
+    "name": "怪异菇",
+    "level": 25,
+    "weapon_weak": 4,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 46,
+    "enemy_key": "ENE_For_N_015",
+    "name_en": "Demon Deer",
+    "name": "邪鹿怪",
+    "level": 28,
+    "weapon_weak": 10,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 48,
+    "enemy_key": "ENE_For_N_017",
+    "name_en": "Peek-a-Boo",
+    "name": "九命树",
+    "level": 47,
+    "weapon_weak": 8,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 50,
+    "enemy_key": "ENE_For_N_019",
+    "name_en": "Carnivorous Plant",
+    "name": "蠢动的大花",
+    "level": 58,
+    "weapon_weak": 36,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 51,
+    "enemy_key": "ENE_For_N_020",
+    "name_en": "Majestic Marmot",
+    "name": "大尾土拨鼠",
+    "level": 12,
+    "weapon_weak": 48,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 52,
+    "enemy_key": "ENE_For_N_021",
+    "name_en": "Mossy Meep ",
+    "name": "摩斯比仆",
+    "level": 3,
+    "weapon_weak": 41,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 53,
+    "enemy_key": "ENE_For_N_022",
+    "name_en": "Gabbrodillo",
+    "name": "辉长岩犰狳",
+    "level": 6,
+    "weapon_weak": 9,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 54,
+    "enemy_key": "ENE_For_N_023",
+    "name_en": "Red Fox ",
+    "name": "红森林狐狸",
+    "level": 12,
+    "weapon_weak": 52,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 55,
+    "enemy_key": "ENE_For_N_024",
+    "name_en": "Rampant Weed",
+    "name": "狂暴植物",
+    "level": 23,
+    "weapon_weak": 9,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 56,
+    "enemy_key": "ENE_For_N_025",
+    "name_en": "Horned Howler",
+    "name": "咆哮者异种",
+    "level": 26,
+    "weapon_weak": 18,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 57,
+    "enemy_key": "ENE_For_N_026",
+    "name_en": "Gargantuan Boar",
+    "name": "大牙野猪异种",
+    "level": 35,
+    "weapon_weak": 17,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 58,
+    "enemy_key": "ENE_For_N_027",
+    "name_en": "Green Scissors",
+    "name": "绿剪虫",
+    "level": 30,
+    "weapon_weak": 12,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 59,
+    "enemy_key": "ENE_For_N_028",
+    "name_en": "Sea Scorpion",
+    "name": "海蝎子",
+    "level": 35,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 60,
+    "enemy_key": "ENE_For_N_029",
+    "name_en": "Ettin Serpent",
+    "name": "双头蛇",
+    "level": 40,
+    "weapon_weak": 12,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 61,
+    "enemy_key": "ENE_For_N_030",
+    "name_en": "Buccaneer Bones",
+    "name": "海盗骷髅",
+    "level": 35,
+    "weapon_weak": 36,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 62,
+    "enemy_key": "ENE_For_N_031",
+    "name_en": "Davy Bones",
+    "name": "海盗骷髅异种",
+    "level": 35,
+    "weapon_weak": 40,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 63,
+    "enemy_key": "ENE_For_N_032",
+    "name_en": "Black Howler",
+    "name": "黑咆哮者",
+    "level": 40,
+    "weapon_weak": 18,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 64,
+    "enemy_key": "ENE_For_N_033",
+    "name_en": "Raging Treant",
+    "name": "狂暴树木",
+    "level": 45,
+    "weapon_weak": 8,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 65,
+    "enemy_key": "ENE_Des_N_001",
+    "name_en": "Sand Lizardman I",
+    "name": "沙漠蜥蜴人Ⅰ",
+    "level": 1,
+    "weapon_weak": 5,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 66,
+    "enemy_key": "ENE_Des_N_002",
+    "name_en": "Sand Lizardman II",
+    "name": "沙漠蜥蜴人Ⅱ",
+    "level": 3,
+    "weapon_weak": 5,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 67,
+    "enemy_key": "ENE_Des_N_003",
+    "name_en": "Sand Lizardman III",
+    "name": "沙漠蜥蜴人Ⅲ",
+    "level": 13,
+    "weapon_weak": 6,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 68,
+    "enemy_key": "ENE_Des_N_004",
+    "name_en": "Sand Lizardman IV",
+    "name": "沙漠蜥蜴人Ⅳ",
+    "level": 28,
+    "weapon_weak": 12,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 69,
+    "enemy_key": "ENE_Des_N_005",
+    "name_en": "Sand Lizardman V",
+    "name": "沙漠蜥蜴人Ⅴ",
+    "level": 29,
+    "weapon_weak": 12,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 70,
+    "enemy_key": "ENE_Des_N_006",
+    "name_en": "Sand Lizardman VI",
+    "name": "沙漠蜥蜴人Ⅵ",
+    "level": 31,
+    "weapon_weak": 6,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 71,
+    "enemy_key": "ENE_Des_N_007",
+    "name_en": "Sand Lizardking I",
+    "name": "沙漠大蜥蜴人Ⅰ",
+    "level": 35,
+    "weapon_weak": 17,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 72,
+    "enemy_key": "ENE_Des_N_008",
+    "name_en": "Sand Lizardking II",
+    "name": "沙漠大蜥蜴人Ⅱ",
+    "level": 42,
+    "weapon_weak": 17,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 73,
+    "enemy_key": "ENE_Des_N_009",
+    "name_en": "Sand Lizardking III",
+    "name": "沙漠大蜥蜴人Ⅲ",
+    "level": 43,
+    "weapon_weak": 36,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 74,
+    "enemy_key": "ENE_Des_N_010",
+    "name_en": "Cactus Roller",
+    "name": "仙人掌粪金龟",
+    "level": 4,
+    "weapon_weak": 2,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 75,
+    "enemy_key": "ENE_Des_N_011",
+    "name_en": "Light Wisp",
+    "name": "光之鬼火",
+    "level": 5,
+    "weapon_weak": 0,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 76,
+    "enemy_key": "ENE_Des_N_012",
+    "name_en": "Sandworm",
+    "name": "沙虫",
+    "level": 18,
+    "weapon_weak": 10,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 77,
+    "enemy_key": "ENE_Des_N_013",
+    "name_en": "Giant Scorpion",
+    "name": "大蝎子",
+    "level": 32,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 78,
+    "enemy_key": "ENE_Des_N_014",
+    "name_en": "Wanderweed",
+    "name": "风来草",
+    "level": 22,
+    "weapon_weak": 1,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 79,
+    "enemy_key": "ENE_Des_N_015",
+    "name_en": "Spiked Skink",
+    "name": "尖刺蜥蜴",
+    "level": 38,
+    "weapon_weak": 34,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 81,
+    "enemy_key": "ENE_Des_N_017",
+    "name_en": "Kartikeya",
+    "name": "七色鸟",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 83,
+    "enemy_key": "ENE_Des_N_019",
+    "name_en": "Lord of the Sands",
+    "name": "沙漠虫",
+    "level": 62,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 84,
+    "enemy_key": "ENE_Des_N_020",
+    "name_en": "Killer Bug",
+    "name": "杀手虫异种",
+    "level": 11,
+    "weapon_weak": 9,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 85,
+    "enemy_key": "ENE_Des_N_021",
+    "name_en": "Skull Roller",
+    "name": "尸骸粪金龟",
+    "level": 12,
+    "weapon_weak": 2,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 86,
+    "enemy_key": "ENE_Des_N_022",
+    "name_en": "Dark Roller",
+    "name": "黑粪金龟",
+    "level": 33,
+    "weapon_weak": 4,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 87,
+    "enemy_key": "ENE_Des_N_023",
+    "name_en": "Savage Scorpion",
+    "name": "大蝎子异种",
+    "level": 35,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 88,
+    "enemy_key": "ENE_Des_N_024",
+    "name_en": "Desert Worm",
+    "name": "沙虫异种",
+    "level": 38,
+    "weapon_weak": 10,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 89,
+    "enemy_key": "ENE_Des_N_025",
+    "name_en": "Withered Wanderweed",
+    "name": "风来枯草",
+    "level": 40,
+    "weapon_weak": 9,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 90,
+    "enemy_key": "ENE_Des_N_026",
+    "name_en": "Sand Lizardman I (2)",
+    "name": "热沙蜥蜴人Ⅰ",
+    "level": 29,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 91,
+    "enemy_key": "ENE_Des_N_027",
+    "name_en": "Sand Lizardman II (2)",
+    "name": "热沙蜥蜴人Ⅱ",
+    "level": 30,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 92,
+    "enemy_key": "ENE_Des_N_028",
+    "name_en": "Sand Lizardman III (2)",
+    "name": "热沙蜥蜴人Ⅲ",
+    "level": 32,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 93,
+    "enemy_key": "ENE_Des_N_029",
+    "name_en": "Sand Lizardking I (2)",
+    "name": "热沙大蜥蜴人Ⅰ",
+    "level": 33,
+    "weapon_weak": 34,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 94,
+    "enemy_key": "ENE_Des_N_030",
+    "name_en": "Sand Lizardking II (2)",
+    "name": "热沙大蜥蜴人Ⅱ",
+    "level": 34,
+    "weapon_weak": 34,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 96,
+    "enemy_key": "ENE_Des_N_032",
+    "name_en": "Vampire Bat",
+    "name": "食人蝙蝠",
+    "level": 35,
+    "weapon_weak": 19,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 97,
+    "enemy_key": "ENE_Des_N_033",
+    "name_en": "Slayer Bug",
+    "name": "黑杀手虫",
+    "level": 35,
+    "weapon_weak": 9,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 98,
+    "enemy_key": "ENE_Des_N_034",
+    "name_en": "Carmine Eagle",
+    "name": "红大鹫",
+    "level": 40,
+    "weapon_weak": 18,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 99,
+    "enemy_key": "ENE_Des_N_035",
+    "name_en": "Warrior Bones ",
+    "name": "战士骷髅",
+    "level": 38,
+    "weapon_weak": 40,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 100,
+    "enemy_key": "ENE_Des_N_036",
+    "name_en": "Brawler Bones",
+    "name": "战士骷髅异种",
+    "level": 38,
+    "weapon_weak": 40,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 101,
+    "enemy_key": "ENE_Des_N_037",
+    "name_en": "Venomous Scorpion",
+    "name": "毒蝎子",
+    "level": 43,
+    "weapon_weak": 2,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 102,
+    "enemy_key": "ENE_Des_N_038",
+    "name_en": "Brigand Bones ",
+    "name": "山贼骷髅异种",
+    "level": 44,
+    "weapon_weak": 40,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 103,
+    "enemy_key": "ENE_Des_N_039",
+    "name_en": "Stone Bug",
+    "name": "石化杀手虫",
+    "level": 42,
+    "weapon_weak": 9,
+    "magic_weak": 6,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 104,
+    "enemy_key": "ENE_Des_N_040",
+    "name_en": "Stone Serpent",
+    "name": "石化双子蛇",
+    "level": 45,
+    "weapon_weak": 12,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 105,
+    "enemy_key": "ENE_Des_N_041",
+    "name_en": "Stone Lizard",
+    "name": "石化尖刺蜥蜴",
+    "level": 47,
+    "weapon_weak": 33,
+    "magic_weak": 38,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 106,
+    "enemy_key": "ENE_Des_N_042",
+    "name_en": "Dire Skull Roller",
+    "name": "尸骸粪金龟异种",
+    "level": 36,
+    "weapon_weak": 4,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 107,
+    "enemy_key": "ENE_Sno_N_001",
+    "name_en": "Ice Lizardman I",
+    "name": "冰雪蜥蜴人Ⅰ",
+    "level": 1,
+    "weapon_weak": 40,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 108,
+    "enemy_key": "ENE_Sno_N_002",
+    "name_en": "Ice Lizardman II",
+    "name": "冰雪蜥蜴人Ⅱ",
+    "level": 3,
+    "weapon_weak": 40,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 109,
+    "enemy_key": "ENE_Sno_N_003",
+    "name_en": "Ice Lizardman III",
+    "name": "冰雪蜥蜴人Ⅲ",
+    "level": 13,
+    "weapon_weak": 32,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 110,
+    "enemy_key": "ENE_Sno_N_004",
+    "name_en": "Ice Lizardman IV",
+    "name": "冰雪蜥蜴人Ⅳ",
+    "level": 24,
+    "weapon_weak": 44,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 111,
+    "enemy_key": "ENE_Sno_N_005",
+    "name_en": "Ice Lizardman V",
+    "name": "冰雪蜥蜴人Ⅴ",
+    "level": 25,
+    "weapon_weak": 44,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 112,
+    "enemy_key": "ENE_Sno_N_006",
+    "name_en": "Ice Lizardman VI",
+    "name": "冰雪蜥蜴人Ⅵ",
+    "level": 26,
+    "weapon_weak": 48,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 113,
+    "enemy_key": "ENE_Sno_N_007",
+    "name_en": "Ice Lizardking I",
+    "name": "冰雪大蜥蜴人Ⅰ",
+    "level": 37,
+    "weapon_weak": 6,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 114,
+    "enemy_key": "ENE_Sno_N_008",
+    "name_en": "Ice Lizardking II",
+    "name": "冰雪大蜥蜴人Ⅱ",
+    "level": 42,
+    "weapon_weak": 6,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 115,
+    "enemy_key": "ENE_Sno_N_009",
+    "name_en": "Ice Lizardking III",
+    "name": "冰雪大蜥蜴人Ⅲ",
+    "level": 43,
+    "weapon_weak": 48,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 116,
+    "enemy_key": "ENE_Sno_N_010",
+    "name_en": "Wolf",
+    "name": "狼",
+    "level": 4,
+    "weapon_weak": 40,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 117,
+    "enemy_key": "ENE_Sno_N_011",
+    "name_en": "Shadow Wisp",
+    "name": "暗鬼火",
+    "level": 5,
+    "weapon_weak": 0,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 118,
+    "enemy_key": "ENE_Sno_N_012",
+    "name_en": "Frost Bear",
+    "name": "冰霜熊",
+    "level": 18,
+    "weapon_weak": 10,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 119,
+    "enemy_key": "ENE_Sno_N_013",
+    "name_en": "Forest Fox",
+    "name": "森林狐狸",
+    "level": 5,
+    "weapon_weak": 53,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 120,
+    "enemy_key": "ENE_Sno_N_014",
+    "name_en": "Portly Penguin",
+    "name": "企鹅怪",
+    "level": 39,
+    "weapon_weak": 24,
+    "magic_weak": 52,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 121,
+    "enemy_key": "ENE_Sno_N_015",
+    "name_en": "Snow Leopard",
+    "name": "白豹",
+    "level": 40,
+    "weapon_weak": 16,
+    "magic_weak": 33,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 123,
+    "enemy_key": "ENE_Sno_N_017",
+    "name_en": "Animated Armor",
+    "name": "腐朽的盔甲",
+    "level": 47,
+    "weapon_weak": 40,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 124,
+    "enemy_key": "ENE_Sno_N_018",
+    "name_en": "Plains Drake",
+    "name": "翼蜥蜴",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 125,
+    "enemy_key": "ENE_Sno_N_019",
+    "name_en": "Dreadwolf",
+    "name": "恐狼",
+    "level": 58,
+    "weapon_weak": 10,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 126,
+    "enemy_key": "ENE_Sno_N_020",
+    "name_en": "Snow Marmot",
+    "name": "冰雪土拨鼠",
+    "level": 5,
+    "weapon_weak": 48,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 127,
+    "enemy_key": "ENE_Sno_N_021",
+    "name_en": "High Wolf",
+    "name": "高地狼",
+    "level": 11,
+    "weapon_weak": 40,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 128,
+    "enemy_key": "ENE_Sno_N_022",
+    "name_en": "Snow Fox",
+    "name": "雪狐狸",
+    "level": 6,
+    "weapon_weak": 16,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 129,
+    "enemy_key": "ENE_Sno_N_023",
+    "name_en": "Frost Fox",
+    "name": "白雪狐狸",
+    "level": 11,
+    "weapon_weak": 16,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 130,
+    "enemy_key": "ENE_Sno_N_024",
+    "name_en": "White Bat",
+    "name": "白蝙蝠",
+    "level": 7,
+    "weapon_weak": 50,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 131,
+    "enemy_key": "ENE_Sno_N_025",
+    "name_en": "Albino Bat ",
+    "name": "白蝙蝠异种",
+    "level": 13,
+    "weapon_weak": 50,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 132,
+    "enemy_key": "ENE_Sno_N_026",
+    "name_en": "White Howler",
+    "name": "白咆哮者",
+    "level": 23,
+    "weapon_weak": 19,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 133,
+    "enemy_key": "ENE_Sno_N_027",
+    "name_en": "Hoary Howler",
+    "name": "白咆哮者异种",
+    "level": 35,
+    "weapon_weak": 19,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 134,
+    "enemy_key": "ENE_Sno_N_028",
+    "name_en": "Majestic Snow Marmot",
+    "name": "冰雪大尾土拨鼠",
+    "level": 24,
+    "weapon_weak": 4,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 135,
+    "enemy_key": "ENE_Sno_N_029",
+    "name_en": "Hoary Bear",
+    "name": "巨大熊",
+    "level": 41,
+    "weapon_weak": 10,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 136,
+    "enemy_key": "ENE_Sno_N_030",
+    "name_en": "Snow Yak",
+    "name": "雪牦牛",
+    "level": 30,
+    "weapon_weak": 34,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 137,
+    "enemy_key": "ENE_Sno_N_031",
+    "name_en": "Ash Raven",
+    "name": "高地乌鸦",
+    "level": 22,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 138,
+    "enemy_key": "ENE_Sno_N_032",
+    "name_en": "Frostwing Serpent",
+    "name": "雪蛇鸟",
+    "level": 39,
+    "weapon_weak": 18,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 139,
+    "enemy_key": "ENE_Sno_N_033",
+    "name_en": "Avalanche Mushroom",
+    "name": "大雪蘑菇",
+    "level": 36,
+    "weapon_weak": 4,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 140,
+    "enemy_key": "ENE_Sno_N_034",
+    "name_en": "Winter Wanderweed",
+    "name": "风来雪草",
+    "level": 37,
+    "weapon_weak": 1,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 141,
+    "enemy_key": "ENE_Sno_N_035",
+    "name_en": "Snow Lizard",
+    "name": "雪蜥蜴",
+    "level": 40,
+    "weapon_weak": 16,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 142,
+    "enemy_key": "ENE_Sno_N_036",
+    "name_en": "War Wolf ",
+    "name": "战狼",
+    "level": 40,
+    "weapon_weak": 17,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 143,
+    "enemy_key": "ENE_Sno_N_037",
+    "name_en": "Accursed Armor",
+    "name": "冰冻的盔甲",
+    "level": 47,
+    "weapon_weak": 40,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 144,
+    "enemy_key": "ENE_Sno_N_038",
+    "name_en": "Reptalios",
+    "name": "雷普塔利欧斯",
+    "level": 45,
+    "weapon_weak": 8,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 1
+  },
+  {
+    "enemy_id_num": 145,
+    "enemy_key": "ENE_Sno_N_039",
+    "name_en": "Carnivorous Bat",
+    "name": "肉食蝙蝠",
+    "level": 36,
+    "weapon_weak": 19,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 146,
+    "enemy_key": "ENE_Sno_N_040",
+    "name_en": "Bandit Bones",
+    "name": "山贼骷髅",
+    "level": 43,
+    "weapon_weak": 40,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 147,
+    "enemy_key": "ENE_Pla_N_001",
+    "name_en": "Flatlands Froggen I",
+    "name": "平原巨蛙Ⅰ",
+    "level": 3,
+    "weapon_weak": 16,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 148,
+    "enemy_key": "ENE_Pla_N_002",
+    "name_en": "Flatlands Froggen II",
+    "name": "平原巨蛙Ⅱ",
+    "level": 5,
+    "weapon_weak": 16,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 149,
+    "enemy_key": "ENE_Pla_N_003",
+    "name_en": "Flatlands Froggen III",
+    "name": "平原巨蛙Ⅲ",
+    "level": 13,
+    "weapon_weak": 40,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 150,
+    "enemy_key": "ENE_Pla_N_004",
+    "name_en": "Flatlands Froggen IV",
+    "name": "平原巨蛙Ⅳ",
+    "level": 15,
+    "weapon_weak": 4,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 151,
+    "enemy_key": "ENE_Pla_N_005",
+    "name_en": "Flatlands Froggen V",
+    "name": "平原巨蛙Ⅴ",
+    "level": 16,
+    "weapon_weak": 4,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 152,
+    "enemy_key": "ENE_Pla_N_006",
+    "name_en": "Flatlands Froggen VI",
+    "name": "平原巨蛙Ⅵ",
+    "level": 35,
+    "weapon_weak": 24,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 153,
+    "enemy_key": "ENE_Pla_N_007",
+    "name_en": "Flatlands Frogking I",
+    "name": "平原大巨蛙Ⅰ",
+    "level": 38,
+    "weapon_weak": 36,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 154,
+    "enemy_key": "ENE_Pla_N_008",
+    "name_en": "Flatlands Frogking II",
+    "name": "平原大巨蛙Ⅱ",
+    "level": 42,
+    "weapon_weak": 36,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 155,
+    "enemy_key": "ENE_Pla_N_009",
+    "name_en": "Flatlands Frogking III",
+    "name": "平原大巨蛙Ⅲ",
+    "level": 43,
+    "weapon_weak": 20,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 156,
+    "enemy_key": "ENE_Pla_N_010",
+    "name_en": "Meep",
+    "name": "比仆",
+    "level": 5,
+    "weapon_weak": 48,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 157,
+    "enemy_key": "ENE_Pla_N_011",
+    "name_en": "Wind Wisp",
+    "name": "风之鬼火",
+    "level": 20,
+    "weapon_weak": 0,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 158,
+    "enemy_key": "ENE_Pla_N_012",
+    "name_en": "Giant Sheep",
+    "name": "大绵羊",
+    "level": 18,
+    "weapon_weak": 16,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 159,
+    "enemy_key": "ENE_Pla_N_013",
+    "name_en": "Night Raven",
+    "name": "黑乌鸦",
+    "level": 14,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 160,
+    "enemy_key": "ENE_Pla_N_014",
+    "name_en": "Bloody Bull",
+    "name": "血腥猛牛",
+    "level": 40,
+    "weapon_weak": 1,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 161,
+    "enemy_key": "ENE_Pla_N_015",
+    "name_en": "Skulking Fungoid",
+    "name": "蠢动的菌类",
+    "level": 30,
+    "weapon_weak": 2,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 163,
+    "enemy_key": "ENE_Pla_N_017",
+    "name_en": "Raging Rhino",
+    "name": "猛角犀牛",
+    "level": 45,
+    "weapon_weak": 9,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 164,
+    "enemy_key": "ENE_Pla_N_018",
+    "name_en": "Snow Drake ",
+    "name": "翼蜥蜴异种",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 165,
+    "enemy_key": "ENE_Pla_N_019",
+    "name_en": "Behemoth",
+    "name": "贝西摩斯",
+    "level": 42,
+    "weapon_weak": 36,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 166,
+    "enemy_key": "ENE_Pla_N_020",
+    "name_en": "Agressive Ant",
+    "name": "断指蚁",
+    "level": 6,
+    "weapon_weak": 34,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 167,
+    "enemy_key": "ENE_Pla_N_021",
+    "name_en": "Shaggy Meep",
+    "name": "头领比仆",
+    "level": 12,
+    "weapon_weak": 48,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 168,
+    "enemy_key": "ENE_Pla_N_022",
+    "name_en": "Dire Night Raven",
+    "name": "黑乌鸦异种",
+    "level": 35,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 169,
+    "enemy_key": "ENE_Pla_N_023",
+    "name_en": "Antagonistic Ant",
+    "name": "断指蚁异种",
+    "level": 15,
+    "weapon_weak": 36,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 170,
+    "enemy_key": "ENE_Pla_N_024",
+    "name_en": "Mammoth Sheep",
+    "name": "大绵羊异种",
+    "level": 37,
+    "weapon_weak": 16,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 171,
+    "enemy_key": "ENE_Pla_N_025",
+    "name_en": "Dire Ash Raven",
+    "name": "高地乌鸦异种",
+    "level": 35,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 172,
+    "enemy_key": "ENE_Pla_N_026",
+    "name_en": "Icky Slug",
+    "name": "黑鼻涕虫",
+    "level": 38,
+    "weapon_weak": 4,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 173,
+    "enemy_key": "ENE_Pla_N_027",
+    "name_en": "Shaggy Spider",
+    "name": "天上蜘蛛",
+    "level": 39,
+    "weapon_weak": 44,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 174,
+    "enemy_key": "ENE_Pla_N_028",
+    "name_en": "Mortal Mushroom",
+    "name": "猛毒菇",
+    "level": 45,
+    "weapon_weak": 8,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 175,
+    "enemy_key": "ENE_Pla_N_029",
+    "name_en": "Furious Fungoid",
+    "name": "狂暴菌类",
+    "level": 47,
+    "weapon_weak": 36,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 176,
+    "enemy_key": "ENE_Riv_N_001",
+    "name_en": "River Froggen I",
+    "name": "河川巨蛙Ⅰ",
+    "level": 1,
+    "weapon_weak": 9,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 177,
+    "enemy_key": "ENE_Riv_N_002",
+    "name_en": "River Froggen II",
+    "name": "河川巨蛙Ⅱ",
+    "level": 3,
+    "weapon_weak": 17,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 178,
+    "enemy_key": "ENE_Riv_N_003",
+    "name_en": "River Froggen III",
+    "name": "河川巨蛙Ⅲ",
+    "level": 13,
+    "weapon_weak": 17,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 179,
+    "enemy_key": "ENE_Riv_N_004",
+    "name_en": "River Froggen IV",
+    "name": "河川巨蛙Ⅳ",
+    "level": 16,
+    "weapon_weak": 32,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 180,
+    "enemy_key": "ENE_Riv_N_005",
+    "name_en": "River Froggen V",
+    "name": "河川巨蛙Ⅴ",
+    "level": 18,
+    "weapon_weak": 32,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 181,
+    "enemy_key": "ENE_Riv_N_006",
+    "name_en": "River Froggen VI",
+    "name": "河川巨蛙Ⅵ",
+    "level": 25,
+    "weapon_weak": 9,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 182,
+    "enemy_key": "ENE_Riv_N_007",
+    "name_en": "River Frogking I",
+    "name": "河川大巨蛙Ⅰ",
+    "level": 45,
+    "weapon_weak": 33,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 183,
+    "enemy_key": "ENE_Riv_N_008",
+    "name_en": "River Frogking II",
+    "name": "河川大巨蛙Ⅱ",
+    "level": 42,
+    "weapon_weak": 33,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 184,
+    "enemy_key": "ENE_Riv_N_009",
+    "name_en": "River Frogking III",
+    "name": "河川大巨蛙Ⅲ",
+    "level": 43,
+    "weapon_weak": 20,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 185,
+    "enemy_key": "ENE_Riv_N_010",
+    "name_en": "River Wasp",
+    "name": "河蜂",
+    "level": 4,
+    "weapon_weak": 11,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 186,
+    "enemy_key": "ENE_Riv_N_011",
+    "name_en": "Giant Slug",
+    "name": "贝壳蜗牛",
+    "level": 5,
+    "weapon_weak": 4,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 187,
+    "enemy_key": "ENE_Riv_N_012",
+    "name_en": "Salamander",
+    "name": "沙罗曼达",
+    "level": 18,
+    "weapon_weak": 4,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 188,
+    "enemy_key": "ENE_Riv_N_013",
+    "name_en": "River Fly",
+    "name": "河川苍蝇",
+    "level": 13,
+    "weapon_weak": 18,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 189,
+    "enemy_key": "ENE_Riv_N_014",
+    "name_en": "Reptalion",
+    "name": "雷普塔利翁",
+    "level": 36,
+    "weapon_weak": 8,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 1
+  },
+  {
+    "enemy_id_num": 190,
+    "enemy_key": "ENE_Riv_N_015",
+    "name_en": "Lord of the Flies",
+    "name": "巨大黑死尸蝇",
+    "level": 45,
+    "weapon_weak": 18,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 192,
+    "enemy_key": "ENE_Riv_N_017",
+    "name_en": "Dreadwing",
+    "name": "诡异的鸟",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 193,
+    "enemy_key": "ENE_Riv_N_018",
+    "name_en": "Giant Gator",
+    "name": "巨大短鼻鳄",
+    "level": 50,
+    "weapon_weak": 10,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 194,
+    "enemy_key": "ENE_Riv_N_019",
+    "name_en": "Gigantes",
+    "name": "基加提亚斯",
+    "level": 65,
+    "weapon_weak": 20,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 195,
+    "enemy_key": "ENE_Riv_N_020",
+    "name_en": "Warrior Wasp",
+    "name": "河蜂异种",
+    "level": 12,
+    "weapon_weak": 11,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 196,
+    "enemy_key": "ENE_Riv_N_021",
+    "name_en": "Motley Slug",
+    "name": "彩色蜗牛",
+    "level": 6,
+    "weapon_weak": 0,
+    "magic_weak": 35,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 197,
+    "enemy_key": "ENE_Riv_N_022",
+    "name_en": "Red Viper",
+    "name": "红蛇",
+    "level": 7,
+    "weapon_weak": 11,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 198,
+    "enemy_key": "ENE_Riv_N_023",
+    "name_en": "Blood Viper",
+    "name": "红蛇异种",
+    "level": 12,
+    "weapon_weak": 11,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 199,
+    "enemy_key": "ENE_Riv_N_024",
+    "name_en": "Horse Fly ",
+    "name": "河川苍蝇异种",
+    "level": 23,
+    "weapon_weak": 18,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 200,
+    "enemy_key": "ENE_Riv_N_025",
+    "name_en": "River Bug",
+    "name": "腐臭虫",
+    "level": 14,
+    "weapon_weak": 41,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 201,
+    "enemy_key": "ENE_Riv_N_026",
+    "name_en": "Collared Salamander",
+    "name": "沙罗曼达异种",
+    "level": 35,
+    "weapon_weak": 4,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 202,
+    "enemy_key": "ENE_Riv_N_027",
+    "name_en": "Horned Fly",
+    "name": "咬断蝇",
+    "level": 39,
+    "weapon_weak": 18,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 203,
+    "enemy_key": "ENE_Riv_N_028",
+    "name_en": "Mad Ratkin",
+    "name": "狰狞的鼠人",
+    "level": 38,
+    "weapon_weak": 2,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 204,
+    "enemy_key": "ENE_Riv_N_029",
+    "name_en": "Blue Bull",
+    "name": "蓝猛牛",
+    "level": 45,
+    "weapon_weak": 1,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 205,
+    "enemy_key": "ENE_Sea_N_001",
+    "name_en": "Sea Birdian I",
+    "name": "海之鸟人Ⅰ",
+    "level": 1,
+    "weapon_weak": 3,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 206,
+    "enemy_key": "ENE_Sea_N_002",
+    "name_en": "Sea Birdian II",
+    "name": "海之鸟人Ⅱ",
+    "level": 3,
+    "weapon_weak": 3,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 207,
+    "enemy_key": "ENE_Sea_N_003",
+    "name_en": "Sea Birdian III",
+    "name": "海之鸟人Ⅲ",
+    "level": 13,
+    "weapon_weak": 1,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 208,
+    "enemy_key": "ENE_Sea_N_004",
+    "name_en": "Sea Birdian IV",
+    "name": "海之鸟人Ⅳ",
+    "level": 16,
+    "weapon_weak": 34,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 209,
+    "enemy_key": "ENE_Sea_N_005",
+    "name_en": "Sea Birdian V",
+    "name": "海之鸟人Ⅴ",
+    "level": 17,
+    "weapon_weak": 34,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 210,
+    "enemy_key": "ENE_Sea_N_006",
+    "name_en": "Sea Birdian VI",
+    "name": "海之鸟人Ⅵ",
+    "level": 25,
+    "weapon_weak": 1,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 211,
+    "enemy_key": "ENE_Sea_N_007",
+    "name_en": "Sea Birdking I",
+    "name": "海之大鸟人Ⅰ",
+    "level": 32,
+    "weapon_weak": 26,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 212,
+    "enemy_key": "ENE_Sea_N_008",
+    "name_en": "Sea Birdking II",
+    "name": "海之大鸟人Ⅱ",
+    "level": 42,
+    "weapon_weak": 26,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 213,
+    "enemy_key": "ENE_Sea_N_009",
+    "name_en": "Sea Birdking III",
+    "name": "海之大鸟人Ⅲ",
+    "level": 43,
+    "weapon_weak": 2,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 214,
+    "enemy_key": "ENE_Sea_N_010",
+    "name_en": "Hermit Conch",
+    "name": "寄居贝",
+    "level": 4,
+    "weapon_weak": 3,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 215,
+    "enemy_key": "ENE_Sea_N_011",
+    "name_en": "Flying Fish",
+    "name": "飞鱼",
+    "level": 5,
+    "weapon_weak": 17,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 216,
+    "enemy_key": "ENE_Sea_N_012",
+    "name_en": "Rock Tortoise",
+    "name": "岩龟",
+    "level": 18,
+    "weapon_weak": 1,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 217,
+    "enemy_key": "ENE_Sea_N_013",
+    "name_en": "Scissor Crab",
+    "name": "剪刀蟹",
+    "level": 16,
+    "weapon_weak": 12,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 218,
+    "enemy_key": "ENE_Sea_N_014",
+    "name_en": "Kingfisher",
+    "name": "海雀",
+    "level": 38,
+    "weapon_weak": 18,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 219,
+    "enemy_key": "ENE_Sea_N_015",
+    "name_en": "Sea Anemone",
+    "name": "浮浪海葵",
+    "level": 32,
+    "weapon_weak": 8,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 221,
+    "enemy_key": "ENE_Sea_N_017",
+    "name_en": "Cetus Maximus",
+    "name": "巨鲸",
+    "level": 47,
+    "weapon_weak": 34,
+    "magic_weak": 36,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 222,
+    "enemy_key": "ENE_Sea_N_018",
+    "name_en": "Reaper Crab",
+    "name": "双剪蟹",
+    "level": 45,
+    "weapon_weak": 12,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 223,
+    "enemy_key": "ENE_Sea_N_019",
+    "name_en": "Deep One",
+    "name": "梅伊尔史多洛姆",
+    "level": 45,
+    "weapon_weak": 9,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 224,
+    "enemy_key": "ENE_Sea_N_020",
+    "name_en": "Pirate I",
+    "name": "海盗（枪）Ⅰ",
+    "level": -100,
+    "weapon_weak": 16,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 225,
+    "enemy_key": "ENE_Sea_N_021",
+    "name_en": "Pirate II",
+    "name": "海盗（枪）Ⅱ",
+    "level": -100,
+    "weapon_weak": 16,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 226,
+    "enemy_key": "ENE_Sea_N_022",
+    "name_en": "Pirate III",
+    "name": "海盗（枪）Ⅲ",
+    "level": -100,
+    "weapon_weak": 17,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 227,
+    "enemy_key": "ENE_Sea_N_023",
+    "name_en": "Sailfish",
+    "name": "飞鱼异种",
+    "level": 12,
+    "weapon_weak": 17,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 228,
+    "enemy_key": "ENE_Sea_N_024",
+    "name_en": "Buccaneer I",
+    "name": "蓝蛇",
+    "level": 6,
+    "weapon_weak": 2,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 229,
+    "enemy_key": "ENE_Sea_N_025",
+    "name_en": "Buccaneer II",
+    "name": "海盗（曲剑）Ⅰ",
+    "level": 18,
+    "weapon_weak": 2,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 230,
+    "enemy_key": "ENE_Sea_N_026",
+    "name_en": "Sea Snake",
+    "name": "海盗（曲剑）Ⅱ",
+    "level": 19,
+    "weapon_weak": 2,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 231,
+    "enemy_key": "ENE_Sea_N_027",
+    "name_en": "Scythe Crab",
+    "name": "剪刀蟹异种",
+    "level": 26,
+    "weapon_weak": 12,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 232,
+    "enemy_key": "ENE_Sea_N_028",
+    "name_en": "Mossy Tortoise",
+    "name": "苔龟",
+    "level": 35,
+    "weapon_weak": 1,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 233,
+    "enemy_key": "ENE_Sea_N_029",
+    "name_en": "Barnacle Bat",
+    "name": "蓝苔蝙蝠",
+    "level": 16,
+    "weapon_weak": 19,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 234,
+    "enemy_key": "ENE_Sea_N_030",
+    "name_en": "Sea Slug",
+    "name": "冷水蜗牛",
+    "level": 15,
+    "weapon_weak": 0,
+    "magic_weak": 41,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 235,
+    "enemy_key": "ENE_Sea_N_031",
+    "name_en": "Barnacle Crab",
+    "name": "蓝苔蟹",
+    "level": 17,
+    "weapon_weak": 12,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 236,
+    "enemy_key": "ENE_Sea_N_032",
+    "name_en": "Barnacle Tortoise",
+    "name": "蓝苔龟",
+    "level": 22,
+    "weapon_weak": 9,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 237,
+    "enemy_key": "ENE_Sea_N_033",
+    "name_en": "Buccaneer III",
+    "name": "海盗（曲剑）Ⅲ",
+    "level": 18,
+    "weapon_weak": 18,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 238,
+    "enemy_key": "ENE_Sea_N_034",
+    "name_en": "Buccaneer IV",
+    "name": "海盗（曲剑）Ⅳ",
+    "level": 19,
+    "weapon_weak": 18,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 239,
+    "enemy_key": "ENE_Sea_N_035",
+    "name_en": "Azure Urchin",
+    "name": "蓝苔海胆",
+    "level": 35,
+    "weapon_weak": 2,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 240,
+    "enemy_key": "ENE_Sea_N_036",
+    "name_en": "Black Scissors",
+    "name": "黑剪蟹",
+    "level": 40,
+    "weapon_weak": 12,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 241,
+    "enemy_key": "ENE_Sea_N_037",
+    "name_en": "Greater Kingfisher",
+    "name": "海雀异种",
+    "level": 47,
+    "weapon_weak": 18,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 242,
+    "enemy_key": "ENE_Cri_N_001",
+    "name_en": "Cliff Birdian I",
+    "name": "悬崖鸟人Ⅰ",
+    "level": 3,
+    "weapon_weak": 11,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 243,
+    "enemy_key": "ENE_Cri_N_002",
+    "name_en": "Cliff Birdian II",
+    "name": "悬崖鸟人Ⅱ",
+    "level": 5,
+    "weapon_weak": 11,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 244,
+    "enemy_key": "ENE_Cri_N_003",
+    "name_en": "Cliff Birdian III",
+    "name": "悬崖鸟人Ⅲ",
+    "level": 13,
+    "weapon_weak": 6,
+    "magic_weak": 33,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 245,
+    "enemy_key": "ENE_Cri_N_004",
+    "name_en": "Cliff Birdian IV",
+    "name": "悬崖鸟人Ⅳ",
+    "level": 16,
+    "weapon_weak": 11,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 246,
+    "enemy_key": "ENE_Cri_N_005",
+    "name_en": "Cliff Birdian V",
+    "name": "悬崖鸟人Ⅴ",
+    "level": 18,
+    "weapon_weak": 11,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 247,
+    "enemy_key": "ENE_Cri_N_006",
+    "name_en": "Cliff Birdian VI",
+    "name": "悬崖鸟人Ⅵ",
+    "level": 25,
+    "weapon_weak": 10,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 248,
+    "enemy_key": "ENE_Cri_N_007",
+    "name_en": "Cliff Birdking I",
+    "name": "悬崖大鸟人Ⅰ",
+    "level": 45,
+    "weapon_weak": 35,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 249,
+    "enemy_key": "ENE_Cri_N_008",
+    "name_en": "Cliff Birdking II",
+    "name": "悬崖大鸟人Ⅱ",
+    "level": 42,
+    "weapon_weak": 35,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 250,
+    "enemy_key": "ENE_Cri_N_009",
+    "name_en": "Cliff Birdking III",
+    "name": "悬崖大鸟人Ⅲ",
+    "level": 43,
+    "weapon_weak": 14,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 251,
+    "enemy_key": "ENE_Cri_N_010",
+    "name_en": "Eggling",
+    "name": "蛋眼",
+    "level": 4,
+    "weapon_weak": 11,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 252,
+    "enemy_key": "ENE_Cri_N_011",
+    "name_en": "Laughing Hyaena",
+    "name": "笑鬣狗",
+    "level": 5,
+    "weapon_weak": 24,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 253,
+    "enemy_key": "ENE_Cri_N_012",
+    "name_en": "Great Condor",
+    "name": "大秃鹰",
+    "level": 18,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 254,
+    "enemy_key": "ENE_Cri_N_013",
+    "name_en": "Lloris",
+    "name": "洛里斯",
+    "level": 13,
+    "weapon_weak": 4,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 255,
+    "enemy_key": "ENE_Cri_N_014",
+    "name_en": "Creeping Treant",
+    "name": "蠢动的树木",
+    "level": 22,
+    "weapon_weak": 8,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 256,
+    "enemy_key": "ENE_Cri_N_015",
+    "name_en": "Armor Eater",
+    "name": "盔甲蜥蜴",
+    "level": 25,
+    "weapon_weak": 9,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 258,
+    "enemy_key": "ENE_Cri_N_017",
+    "name_en": "Woolly Spider",
+    "name": "四丈蜘蛛",
+    "level": 45,
+    "weapon_weak": 41,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 259,
+    "enemy_key": "ENE_Cri_N_018",
+    "name_en": "Giant Eagle",
+    "name": "大鹫",
+    "level": 47,
+    "weapon_weak": 2,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      }
+    ],
+    "weak_count": 1
+  },
+  {
+    "enemy_id_num": 260,
+    "enemy_key": "ENE_Cri_N_019",
+    "name_en": "Heavenwing",
+    "name": "亚耶罗巴特",
+    "level": 35,
+    "weapon_weak": 18,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 261,
+    "enemy_key": "ENE_Cri_N_020",
+    "name_en": "Hatchling",
+    "name": "手蛋",
+    "level": 12,
+    "weapon_weak": 11,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 262,
+    "enemy_key": "ENE_Cri_N_021",
+    "name_en": "Long-eared Lloris",
+    "name": "长耳洛里斯",
+    "level": 26,
+    "weapon_weak": 4,
+    "magic_weak": 9,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 263,
+    "enemy_key": "ENE_Cri_N_022",
+    "name_en": "Two-Handed Hatchling",
+    "name": "双手蛋",
+    "level": 16,
+    "weapon_weak": 11,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 264,
+    "enemy_key": "ENE_Cri_N_023",
+    "name_en": "King Condor",
+    "name": "大秃鹰异种",
+    "level": 35,
+    "weapon_weak": 18,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 265,
+    "enemy_key": "ENE_Cri_N_024",
+    "name_en": "Creepy Fledgling",
+    "name": "诡异的幼体",
+    "level": 37,
+    "weapon_weak": 9,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 266,
+    "enemy_key": "ENE_Cri_N_025",
+    "name_en": "Guard Dog",
+    "name": "看门狗",
+    "level": 8,
+    "weapon_weak": 12,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 267,
+    "enemy_key": "ENE_Cri_N_026",
+    "name_en": "War Dog",
+    "name": "凶暴的看门狗",
+    "level": 20,
+    "weapon_weak": 24,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 268,
+    "enemy_key": "ENE_Cri_N_027",
+    "name_en": "Tempest Falcon",
+    "name": "狂暴游隼",
+    "level": 19,
+    "weapon_weak": 22,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 269,
+    "enemy_key": "ENE_Cri_N_028",
+    "name_en": "Marionette Bones",
+    "name": "傀儡骷髅",
+    "level": 22,
+    "weapon_weak": 32,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 270,
+    "enemy_key": "ENE_Cri_N_029",
+    "name_en": "Puppet Bones",
+    "name": "傀儡骷髅异种",
+    "level": 22,
+    "weapon_weak": 32,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 271,
+    "enemy_key": "ENE_Cri_N_030",
+    "name_en": "Bloody Rhino",
+    "name": "红猛角犀牛",
+    "level": 47,
+    "weapon_weak": 41,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 272,
+    "enemy_key": "ENE_Cri_N_031",
+    "name_en": "Devil Deer",
+    "name": "邪鹿怪异种",
+    "level": 45,
+    "weapon_weak": 40,
+    "magic_weak": 44,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 273,
+    "enemy_key": "ENE_Cri_N_032",
+    "name_en": "Ettin Snake",
+    "name": "双颈蛇",
+    "level": 46,
+    "weapon_weak": 12,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 274,
+    "enemy_key": "ENE_Cri_N_033",
+    "name_en": "Killer Chameleon",
+    "name": "雷普塔利欧尔",
+    "level": 45,
+    "weapon_weak": 8,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 275,
+    "enemy_key": "ENE_Cav_N_001",
+    "name_en": "Scaled Viper",
+    "name": "鳞蛇",
+    "level": 7,
+    "weapon_weak": 10,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 278,
+    "enemy_key": "ENE_Cav_N_004",
+    "name_en": "Black Bat",
+    "name": "黑蝙蝠",
+    "level": 6,
+    "weapon_weak": 22,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 282,
+    "enemy_key": "ENE_Cav_N_008",
+    "name_en": "Ettin Asp",
+    "name": "双子蛇",
+    "level": 44,
+    "weapon_weak": 12,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 283,
+    "enemy_key": "ENE_Cav_N_009",
+    "name_en": "Ettin Ophidian",
+    "name": "双子蛇异种",
+    "level": 50,
+    "weapon_weak": 12,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 286,
+    "enemy_key": "ENE_Cav_N_012",
+    "name_en": "Fire Elemental ",
+    "name": "火元素",
+    "level": 33,
+    "weapon_weak": 0,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 287,
+    "enemy_key": "ENE_Cav_N_013",
+    "name_en": "Light Elemental",
+    "name": "光元素",
+    "level": 34,
+    "weapon_weak": 0,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 288,
+    "enemy_key": "ENE_Cav_N_014",
+    "name_en": "Dark Elemental",
+    "name": "暗元素",
+    "level": 34,
+    "weapon_weak": 0,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 289,
+    "enemy_key": "ENE_Cav_N_015",
+    "name_en": "Tyrannodrake",
+    "name": "翼蜥蜴重型种",
+    "level": 60,
+    "weapon_weak": 40,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 290,
+    "enemy_key": "ENE_Cav_N_016",
+    "name_en": "Shadow Bat",
+    "name": "黑蝙蝠异种",
+    "level": 12,
+    "weapon_weak": 19,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 291,
+    "enemy_key": "ENE_Cav_N_017",
+    "name_en": "Ice Elemental",
+    "name": "冰元素",
+    "level": 33,
+    "weapon_weak": 0,
+    "magic_weak": 5,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 292,
+    "enemy_key": "ENE_Cav_N_018",
+    "name_en": "Wind Elemental",
+    "name": "风元素",
+    "level": 33,
+    "weapon_weak": 0,
+    "magic_weak": 6,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 293,
+    "enemy_key": "ENE_Rem_N_001",
+    "name_en": "Assassin Bug",
+    "name": "杀手虫",
+    "level": 3,
+    "weapon_weak": 9,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 297,
+    "enemy_key": "ENE_Rem_N_005",
+    "name_en": "Ambling Bones",
+    "name": "行走骷髅",
+    "level": 3,
+    "weapon_weak": 32,
+    "magic_weak": 24,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 301,
+    "enemy_key": "ENE_Rem_N_009",
+    "name_en": "Revenant",
+    "name": "古代遗物・兵",
+    "level": 60,
+    "weapon_weak": 53,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 302,
+    "enemy_key": "ENE_Rem_N_010",
+    "name_en": "Blood Revenant",
+    "name": "古代遗物・赤兵",
+    "level": 58,
+    "weapon_weak": 49,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 303,
+    "enemy_key": "ENE_Rem_N_011",
+    "name_en": "Shadow Revenant",
+    "name": "古代遗物・黑兵",
+    "level": 59,
+    "weapon_weak": 49,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 304,
+    "enemy_key": "ENE_Rem_N_012",
+    "name_en": "Sticky Slug",
+    "name": "鼻涕虫",
+    "level": 25,
+    "weapon_weak": 4,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 305,
+    "enemy_key": "ENE_Rem_N_013",
+    "name_en": "Gooey Slug",
+    "name": "鼻涕虫异种",
+    "level": 45,
+    "weapon_weak": 4,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 307,
+    "enemy_key": "ENE_Rem_N_015",
+    "name_en": "Flame Revenant",
+    "name": "古代遗物・火兵",
+    "level": 58,
+    "weapon_weak": 49,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 308,
+    "enemy_key": "ENE_Rem_N_016",
+    "name_en": "Dark Revenant",
+    "name": "古代遗物・暗兵",
+    "level": 59,
+    "weapon_weak": 49,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 309,
+    "enemy_key": "ENE_Rem_N_017",
+    "name_en": "Thunder Revenant",
+    "name": "古代遗物・雷兵",
+    "level": 58,
+    "weapon_weak": 49,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 310,
+    "enemy_key": "ENE_Rem_N_018",
+    "name_en": "Flame Remnant Mk.II",
+    "name": "古代遗物（火兽）・异型",
+    "level": 44,
+    "weapon_weak": 11,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 311,
+    "enemy_key": "ENE_Rem_N_019",
+    "name_en": "Shadow Remnant Mk.II",
+    "name": "古代遗物（暗兽）・异型",
+    "level": 46,
+    "weapon_weak": 11,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 312,
+    "enemy_key": "ENE_Rem_N_020",
+    "name_en": "Thunder Remnant Mk.II",
+    "name": "古代遗物（雷兽）・异型",
+    "level": 45,
+    "weapon_weak": 11,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 313,
+    "enemy_key": "ENE_Rem_N_021",
+    "name_en": "Ice Revenant",
+    "name": "古代遗物・冰兵",
+    "level": 58,
+    "weapon_weak": 49,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 314,
+    "enemy_key": "ENE_Rem_N_022",
+    "name_en": "Light Revenant",
+    "name": "古代遗物・光兵",
+    "level": 59,
+    "weapon_weak": 49,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 315,
+    "enemy_key": "ENE_Rem_N_023",
+    "name_en": "Wind Revenant",
+    "name": "古代遗物・风兵",
+    "level": 58,
+    "weapon_weak": 49,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 316,
+    "enemy_key": "ENE_Rem_N_024",
+    "name_en": "Remnant Mk.II",
+    "name": "古代遗物（兽）・异型",
+    "level": 44,
+    "weapon_weak": 15,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 317,
+    "enemy_key": "ENE_Rem_N_025",
+    "name_en": "Ice Remnant Mk.II",
+    "name": "古代遗物（冰兽）・异型",
+    "level": 46,
+    "weapon_weak": 11,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 318,
+    "enemy_key": "ENE_Rem_N_026",
+    "name_en": "Light Remnant Mk.II",
+    "name": "古代遗物（光兽）・异型",
+    "level": 44,
+    "weapon_weak": 11,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 319,
+    "enemy_key": "ENE_Rem_N_027",
+    "name_en": "Wind Remnant Mk.II",
+    "name": "古代遗物（风兽）・异型",
+    "level": 46,
+    "weapon_weak": 11,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 320,
+    "enemy_key": "ENE_Rem_N_028",
+    "name_en": "Remnant",
+    "name": "古代遗物（兽）",
+    "level": 30,
+    "weapon_weak": 15,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 322,
+    "enemy_key": "ENE_Rem_N_030",
+    "name_en": "Ice Remnant",
+    "name": "古代遗物（冰兽）",
+    "level": 28,
+    "weapon_weak": 11,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 323,
+    "enemy_key": "ENE_Rem_N_031",
+    "name_en": "Wind Remnant",
+    "name": "古代遗物（风兽）",
+    "level": 28,
+    "weapon_weak": 11,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 324,
+    "enemy_key": "ENE_Rem_N_032",
+    "name_en": "Thunder Remnant",
+    "name": "古代遗物（雷兽）",
+    "level": 28,
+    "weapon_weak": 11,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 325,
+    "enemy_key": "ENE_Rem_N_033",
+    "name_en": "Light Remnant",
+    "name": "古代遗物（光兽）",
+    "level": 29,
+    "weapon_weak": 11,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 330,
+    "enemy_key": "ENE_Rem_E_004",
+    "name_en": "Brigand Leader I",
+    "name": "盗贼团干部Ⅰ",
+    "level": 42,
+    "weapon_weak": 12,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 331,
+    "enemy_key": "ENE_Rem_E_005",
+    "name_en": "Brigand Leader II",
+    "name": "盗贼团干部Ⅱ",
+    "level": 42,
+    "weapon_weak": 12,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 332,
+    "enemy_key": "ENE_Rem_E_006",
+    "name_en": "Brigand Leader III",
+    "name": "盗贼团干部Ⅲ",
+    "level": 45,
+    "weapon_weak": 8,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 333,
+    "enemy_key": "ENE_FoD_N_001",
+    "name_en": "Manticore",
+    "name": "法尔帕斯",
+    "level": 9,
+    "weapon_weak": 17,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 334,
+    "enemy_key": "ENE_FoD_N_002",
+    "name_en": "Menacing Manticore",
+    "name": "法尔帕斯异种",
+    "level": 45,
+    "weapon_weak": 49,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 337,
+    "enemy_key": "ENE_FoD_N_005",
+    "name_en": "Spud Bug",
+    "name": "薯虫",
+    "level": 15,
+    "weapon_weak": 5,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 341,
+    "enemy_key": "ENE_FoD_N_009",
+    "name_en": "Manymaws",
+    "name": "戴特摩尔",
+    "level": 40,
+    "weapon_weak": 9,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 344,
+    "enemy_key": "ENE_FoD_N_012",
+    "name_en": "Monarch",
+    "name": "人面蝶",
+    "level": 30,
+    "weapon_weak": 18,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 345,
+    "enemy_key": "ENE_FoD_N_013",
+    "name_en": "Crawly Fledgling",
+    "name": "不可思议的幼体",
+    "level": 20,
+    "weapon_weak": 9,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 346,
+    "enemy_key": "ENE_FoD_E_001",
+    "name_en": "Researcher I",
+    "name": "研究员Ⅰ",
+    "level": 38,
+    "weapon_weak": 21,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 347,
+    "enemy_key": "ENE_FoD_E_002",
+    "name_en": "Researcher II",
+    "name": "研究员Ⅱ",
+    "level": 39,
+    "weapon_weak": 21,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 350,
+    "enemy_key": "ENE_Hou_E_001",
+    "name_en": "Believer I",
+    "name": "黑炎教信徒Ⅰ",
+    "level": 33,
+    "weapon_weak": 13,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 351,
+    "enemy_key": "ENE_Hou_E_002",
+    "name_en": "Believer II",
+    "name": "黑炎教信徒Ⅱ",
+    "level": 34,
+    "weapon_weak": 13,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 352,
+    "enemy_key": "ENE_Hou_E_003",
+    "name_en": "Zealot I",
+    "name": "黑炎教信徒（高级）Ⅰ",
+    "level": 42,
+    "weapon_weak": 13,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 353,
+    "enemy_key": "ENE_Hou_E_004",
+    "name_en": "Zealot II",
+    "name": "黑炎教信徒（高级）Ⅱ",
+    "level": 43,
+    "weapon_weak": 13,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 354,
+    "enemy_key": "ENE_Hou_E_005",
+    "name_en": "Obsidian Executive I",
+    "name": "黑曜会成员Ⅰ",
+    "level": 38,
+    "weapon_weak": 26,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 355,
+    "enemy_key": "ENE_Hou_E_006",
+    "name_en": "Obsidian Executive II",
+    "name": "黑曜会成员Ⅱ",
+    "level": 39,
+    "weapon_weak": 1,
+    "magic_weak": 26,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 356,
+    "enemy_key": "ENE_Hou_E_007",
+    "name_en": "Constituent I",
+    "name": "黑曜会干部Ⅰ",
+    "level": 42,
+    "weapon_weak": 26,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 357,
+    "enemy_key": "ENE_Hou_E_008",
+    "name_en": "Constituent II",
+    "name": "黑曜会干部Ⅱ",
+    "level": 43,
+    "weapon_weak": 1,
+    "magic_weak": 26,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 358,
+    "enemy_key": "ENE_Hou_E_009",
+    "name_en": "Bodyguard I",
+    "name": "保镖Ⅰ",
+    "level": 14,
+    "weapon_weak": 10,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 359,
+    "enemy_key": "ENE_Hou_E_010",
+    "name_en": "Bodyguard II",
+    "name": "保镖Ⅱ",
+    "level": 15,
+    "weapon_weak": 10,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 360,
+    "enemy_key": "ENE_Hou_E_011",
+    "name_en": "Ravus Guard I",
+    "name": "瑞布斯的士兵Ⅰ",
+    "level": 1,
+    "weapon_weak": 13,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 361,
+    "enemy_key": "ENE_Hou_E_012",
+    "name_en": "Ravus Guard II",
+    "name": "瑞布斯的士兵Ⅱ",
+    "level": 3,
+    "weapon_weak": 0,
+    "magic_weak": 3,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 362,
+    "enemy_key": "ENE_Hou_E_013",
+    "name_en": "Werner's Man I",
+    "name": "维尔纳的士兵Ⅰ",
+    "level": 42,
+    "weapon_weak": 5,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 363,
+    "enemy_key": "ENE_Hou_E_014",
+    "name_en": "Werner's Man II",
+    "name": "维尔纳的士兵Ⅱ",
+    "level": 43,
+    "weapon_weak": 5,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 364,
+    "enemy_key": "ENE_Hou_E_015",
+    "name_en": "Morlock's Mercenary I",
+    "name": "莫洛克的警备兵Ⅰ",
+    "level": 16,
+    "weapon_weak": 6,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 365,
+    "enemy_key": "ENE_Hou_E_016",
+    "name_en": "Morlock's Mercenary II",
+    "name": "莫洛克的警备兵Ⅱ",
+    "level": 17,
+    "weapon_weak": 6,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 366,
+    "enemy_key": "ENE_Hou_E_017",
+    "name_en": "Werner's Man III",
+    "name": "维尔纳的士兵Ⅲ",
+    "level": 44,
+    "weapon_weak": 5,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 367,
+    "enemy_key": "ENE_Hou_E_018",
+    "name_en": "Researcher III",
+    "name": "研究员Ⅲ",
+    "level": 40,
+    "weapon_weak": 20,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 368,
+    "enemy_key": "ENE_Hou_N_001",
+    "name_en": "Sentinel Mk.II",
+    "name": "魔导机",
+    "level": 12,
+    "weapon_weak": 59,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 369,
+    "enemy_key": "ENE_Hou_N_002",
+    "name_en": "Light Sentinel Mk.II",
+    "name": "魔导机（光）",
+    "level": 25,
+    "weapon_weak": 43,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 370,
+    "enemy_key": "ENE_Hou_N_003",
+    "name_en": "Dark Sentinel Mk.II",
+    "name": "魔导机（暗）",
+    "level": 12,
+    "weapon_weak": 43,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 372,
+    "enemy_key": "ENE_Hou_N_005",
+    "name_en": "Guardian",
+    "name": "魔导机兵",
+    "level": 13,
+    "weapon_weak": 23,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 373,
+    "enemy_key": "ENE_Hou_N_006",
+    "name_en": "Flame Guardian",
+    "name": "魔导机兵（火）",
+    "level": 40,
+    "weapon_weak": 21,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 374,
+    "enemy_key": "ENE_Hou_N_007",
+    "name_en": "Ice Guardian",
+    "name": "魔导机兵（冰）",
+    "level": 12,
+    "weapon_weak": 21,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 375,
+    "enemy_key": "ENE_Hou_N_008",
+    "name_en": "Wind Guardian",
+    "name": "魔导机兵（风）",
+    "level": 25,
+    "weapon_weak": 21,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 376,
+    "enemy_key": "ENE_Hou_N_009",
+    "name_en": "Thunder Guardian",
+    "name": "魔导机兵（雷）",
+    "level": 40,
+    "weapon_weak": 21,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 377,
+    "enemy_key": "ENE_Hou_N_010",
+    "name_en": "Light Guardian",
+    "name": "魔导机兵（光）",
+    "level": 25,
+    "weapon_weak": 21,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 378,
+    "enemy_key": "ENE_Hou_N_011",
+    "name_en": "Dark Guardian",
+    "name": "魔导机兵（暗）",
+    "level": 12,
+    "weapon_weak": 21,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 379,
+    "enemy_key": "ENE_Hou_N_012",
+    "name_en": "Flame Sentinel Mk.II",
+    "name": "魔导机（火）",
+    "level": 4,
+    "weapon_weak": 43,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 380,
+    "enemy_key": "ENE_Hou_N_013",
+    "name_en": "Ice Sentinel Mk.II",
+    "name": "魔导机（冰）",
+    "level": 4,
+    "weapon_weak": 43,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 381,
+    "enemy_key": "ENE_Hou_N_014",
+    "name_en": "Ravus Soldier III",
+    "name": "瑞布斯的士兵Ⅲ",
+    "level": 14,
+    "weapon_weak": 20,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 382,
+    "enemy_key": "ENE_Hou_N_015",
+    "name_en": "Fire Guardian Mk.II",
+    "name": "魔导机兵（火）・异型",
+    "level": 42,
+    "weapon_weak": 21,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 383,
+    "enemy_key": "ENE_Hou_N_016",
+    "name_en": "Dark Guardian Mk.II",
+    "name": "魔导机兵（暗）・异型",
+    "level": 43,
+    "weapon_weak": 21,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 384,
+    "enemy_key": "ENE_Hou_N_017",
+    "name_en": "Flame Curator Mk.II",
+    "name": "魔导飞器（火）・异型",
+    "level": 43,
+    "weapon_weak": 18,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 385,
+    "enemy_key": "ENE_Hou_N_018",
+    "name_en": "Dark Curator Mk.II",
+    "name": "魔导飞器（暗）・异型",
+    "level": 44,
+    "weapon_weak": 18,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 386,
+    "enemy_key": "ENE_Hou_N_019",
+    "name_en": "Wind Sentinel Mk.II",
+    "name": "魔导机（风）",
+    "level": 25,
+    "weapon_weak": 43,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 387,
+    "enemy_key": "ENE_Hou_N_020",
+    "name_en": "Thunder Sentinel Mk.II",
+    "name": "魔导机（雷）",
+    "level": 14,
+    "weapon_weak": 43,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 388,
+    "enemy_key": "ENE_Hou_N_021",
+    "name_en": "Sentinel",
+    "name": "魔导机・异型",
+    "level": 41,
+    "weapon_weak": 59,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 389,
+    "enemy_key": "ENE_Hou_N_022",
+    "name_en": "Fire Sentinel",
+    "name": "魔导机（火）・异型",
+    "level": 35,
+    "weapon_weak": 43,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 390,
+    "enemy_key": "ENE_Hou_N_023",
+    "name_en": "Ice Sentinel",
+    "name": "魔导机（冰）・异型",
+    "level": 40,
+    "weapon_weak": 43,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 391,
+    "enemy_key": "ENE_Hou_N_024",
+    "name_en": "Wind Sentinel",
+    "name": "魔导机（风）・异型",
+    "level": 40,
+    "weapon_weak": 43,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 392,
+    "enemy_key": "ENE_Hou_N_025",
+    "name_en": "Thunder Sentinel",
+    "name": "魔导机（雷）・异型",
+    "level": 40,
+    "weapon_weak": 43,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 393,
+    "enemy_key": "ENE_Hou_N_026",
+    "name_en": "Light Sentinel",
+    "name": "魔导机（光）・异型",
+    "level": 39,
+    "weapon_weak": 43,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 394,
+    "enemy_key": "ENE_Hou_N_027",
+    "name_en": "Dark Sentinel",
+    "name": "魔导机（暗）・异型",
+    "level": 36,
+    "weapon_weak": 43,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 5
+  },
+  {
+    "enemy_id_num": 395,
+    "enemy_key": "ENE_Hou_N_028",
+    "name_en": "Curator",
+    "name": "魔导飞器",
+    "level": 14,
+    "weapon_weak": 54,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 396,
+    "enemy_key": "ENE_Hou_N_029",
+    "name_en": "Flame Curator",
+    "name": "魔导飞器（火）",
+    "level": 35,
+    "weapon_weak": 50,
+    "magic_weak": 2,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 397,
+    "enemy_key": "ENE_Hou_N_030",
+    "name_en": "Ice Curator",
+    "name": "魔导飞器（冰）",
+    "level": 13,
+    "weapon_weak": 50,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 398,
+    "enemy_key": "ENE_Hou_N_031",
+    "name_en": "Wind Curator ",
+    "name": "魔导飞器（风）",
+    "level": 25,
+    "weapon_weak": 50,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 399,
+    "enemy_key": "ENE_Hou_N_032",
+    "name_en": "Thunder Curator",
+    "name": "魔导飞器（雷）",
+    "level": 38,
+    "weapon_weak": 50,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 400,
+    "enemy_key": "ENE_Hou_N_033",
+    "name_en": "Light Curator",
+    "name": "魔导飞器（光）",
+    "level": 26,
+    "weapon_weak": 50,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 401,
+    "enemy_key": "ENE_Hou_N_034",
+    "name_en": "Dark Curator",
+    "name": "魔导飞器（暗）",
+    "level": 36,
+    "weapon_weak": 50,
+    "magic_weak": 16,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 402,
+    "enemy_key": "ENE_Hou_N_035",
+    "name_en": "Guardian Mk.II",
+    "name": "魔导机兵・异型",
+    "level": 44,
+    "weapon_weak": 23,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 403,
+    "enemy_key": "ENE_Hou_N_036",
+    "name_en": "Ice Guardian Mk.II",
+    "name": "魔导机兵（冰）・异型",
+    "level": 42,
+    "weapon_weak": 21,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 404,
+    "enemy_key": "ENE_Hou_N_037",
+    "name_en": "Wind Guardian Mk.II",
+    "name": "魔导机兵（风）・异型",
+    "level": 42,
+    "weapon_weak": 21,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 405,
+    "enemy_key": "ENE_Hou_N_038",
+    "name_en": "Thunder Guardian Mk.II",
+    "name": "魔导机兵（雷）・异型",
+    "level": 42,
+    "weapon_weak": 21,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 406,
+    "enemy_key": "ENE_Hou_N_039",
+    "name_en": "Light Guardian Mk.II",
+    "name": "魔导机兵（光）・异型",
+    "level": 43,
+    "weapon_weak": 21,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 407,
+    "enemy_key": "ENE_Hou_N_040",
+    "name_en": "Curator Mk.II",
+    "name": "魔导飞器・异型",
+    "level": 45,
+    "weapon_weak": 22,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 408,
+    "enemy_key": "ENE_Hou_N_041",
+    "name_en": "Ice Curator Mk.II",
+    "name": "魔导飞器（冰）・异型",
+    "level": 43,
+    "weapon_weak": 18,
+    "magic_weak": 1,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 0
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 409,
+    "enemy_key": "ENE_Hou_N_042",
+    "name_en": "Wind Curator Mk.II",
+    "name": "魔导飞器（风）・异型",
+    "level": 43,
+    "weapon_weak": 18,
+    "magic_weak": 4,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 410,
+    "enemy_key": "ENE_Hou_N_043",
+    "name_en": "Thunder Curator Mk.II",
+    "name": "魔导飞器（雷）・异型",
+    "level": 43,
+    "weapon_weak": 18,
+    "magic_weak": 8,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 411,
+    "enemy_key": "ENE_Hou_N_044",
+    "name_en": "Light Curator Mk.II",
+    "name": "魔导飞器（光）・异型",
+    "level": 44,
+    "weapon_weak": 18,
+    "magic_weak": 32,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 3
+  },
+  {
+    "enemy_id_num": 412,
+    "enemy_key": "ENE_Ext_N_001",
+    "name_en": "Thief I",
+    "name": "盗贼Ⅰ",
+    "level": 20,
+    "weapon_weak": 3,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 413,
+    "enemy_key": "ENE_Ext_N_002",
+    "name_en": "Thief II",
+    "name": "盗贼Ⅱ",
+    "level": 21,
+    "weapon_weak": 17,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 414,
+    "enemy_key": "ENE_Ext_N_003",
+    "name_en": "Master Thief I",
+    "name": "上级盗贼Ⅰ",
+    "level": 40,
+    "weapon_weak": 3,
+    "magic_weak": 20,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 2
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 415,
+    "enemy_key": "ENE_Ext_N_004",
+    "name_en": "Master Thief II",
+    "name": "上级盗贼Ⅱ",
+    "level": 41,
+    "weapon_weak": 17,
+    "magic_weak": 18,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 4
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 416,
+    "enemy_key": "ENE_Ext_N_005",
+    "name_en": "Cait ",
+    "name": "凯特林",
+    "level": 10,
+    "weapon_weak": 45,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 417,
+    "enemy_key": "ENE_Ext_N_006",
+    "name_en": "Cultured Cait",
+    "name": "绅士凯特林",
+    "level": 20,
+    "weapon_weak": 45,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 418,
+    "enemy_key": "ENE_Ext_N_007",
+    "name_en": "Chubby Cait",
+    "name": "布尔乔亚凯特林",
+    "level": 30,
+    "weapon_weak": 45,
+    "magic_weak": 0,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 3
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      }
+    ],
+    "weak_count": 4
+  },
+  {
+    "enemy_id_num": 419,
+    "enemy_key": "ENE_Ext_N_008",
+    "name_en": "Fire Wisp",
+    "name": "火之鬼火",
+    "level": 4,
+    "weapon_weak": 0,
+    "magic_weak": 34,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 420,
+    "enemy_key": "ENE_Ext_N_009",
+    "name_en": "Ice Wisp",
+    "name": "冰之鬼火",
+    "level": 4,
+    "weapon_weak": 0,
+    "magic_weak": 17,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 0
+      },
+      {
+        "kind": "attr",
+        "idx": 4
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 421,
+    "enemy_key": "ENE_Ext_N_010",
+    "name_en": "Thunder Wisp",
+    "name": "雷之鬼火",
+    "level": 20,
+    "weapon_weak": 0,
+    "magic_weak": 40,
+    "weak_slots": [
+      {
+        "kind": "attr",
+        "idx": 3
+      },
+      {
+        "kind": "attr",
+        "idx": 5
+      }
+    ],
+    "weak_count": 2
+  },
+  {
+    "enemy_id_num": 878,
+    "enemy_key": "ENE_EVE_EXT_007",
+    "name_en": "Throne Guardian",
+    "name": "王座的守护者",
+    "level": 0,
+    "weapon_weak": 37,
+    "magic_weak": 10,
+    "weak_slots": [
+      {
+        "kind": "wpn",
+        "idx": 0
+      },
+      {
+        "kind": "wpn",
+        "idx": 2
+      },
+      {
+        "kind": "wpn",
+        "idx": 5
+      },
+      {
+        "kind": "attr",
+        "idx": 1
+      },
+      {
+        "kind": "attr",
+        "idx": 3
+      }
+    ],
+    "weak_count": 5
+  }
+]

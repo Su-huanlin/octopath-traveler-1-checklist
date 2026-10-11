@@ -1,0 +1,4634 @@
+{
+ "count": 641,
+ "types": {
+  "1": {
+   "type_name": "道具",
+   "n": 122,
+   "examples": [
+    "ＨＰ恢复的葡萄",
+    "ＨＰ恢复的葡萄（大）",
+    "ＨＰ全体恢复的葡萄",
+    "ＳＰ恢复的李子"
+   ]
+  },
+  "2": {
+   "type_name": "剑",
+   "n": 33,
+   "examples": [
+    "历战之剑",
+    "哈洛德之剑",
+    "魔力之剑",
+    "禁忌之剑"
+   ]
+  },
+  "3": {
+   "type_name": "枪",
+   "n": 29,
+   "examples": [
+    "历战之枪",
+    "贸易风之枪",
+    "名手之枪",
+    "符文长柄刀"
+   ]
+  },
+  "4": {
+   "type_name": "短剑",
+   "n": 29,
+   "examples": [
+    "历战短剑",
+    "希斯柯特的短剑",
+    "大蛇短剑",
+    "金钢合金短刀"
+   ]
+  },
+  "5": {
+   "type_name": "斧",
+   "n": 33,
+   "examples": [
+    "历战之斧",
+    "纪念之斧",
+    "死亡猛击斧",
+    "双刃战斧"
+   ]
+  },
+  "6": {
+   "type_name": "弓",
+   "n": 30,
+   "examples": [
+    "历战之弓",
+    "古来弓・岚",
+    "超越弓・幻",
+    "进化弓・鹰"
+   ]
+  },
+  "7": {
+   "type_name": "杖",
+   "n": 32,
+   "examples": [
+    "历战之杖",
+    "大主教之杖",
+    "斗智之杖",
+    "术士之杖"
+   ]
+  },
+  "8": {
+   "type_name": "盾",
+   "n": 18,
+   "examples": [
+    "历战之盾",
+    "米克马克之盾",
+    "禁忌之盾",
+    "力之盾"
+   ]
+  },
+  "9": {
+   "type_name": "头",
+   "n": 42,
+   "examples": [
+    "水晶头盔",
+    "睡神宝冠",
+    "金钢合金帽",
+    "龙之头盔"
+   ]
+  },
+  "10": {
+   "type_name": "身体",
+   "n": 50,
+   "examples": [
+    "水晶盔甲",
+    "水晶背心",
+    "大圣火长袍",
+    "龙之盔甲"
+   ]
+  },
+  "11": {
+   "type_name": "饰品",
+   "n": 67,
+   "examples": [
+    "隔离缎带",
+    "引诱缎带",
+    "队长的徽章",
+    "友情的徽章"
+   ]
+  },
+  "12": {
+   "type_name": "调和素材",
+   "n": 16,
+   "examples": [
+    "药的素材",
+    "药的素材（扩散）",
+    "秘药的素材",
+    "秘药的素材（扩散）"
+   ]
+  },
+  "13": {
+   "type_name": "贵重物品",
+   "n": 79,
+   "examples": [
+    "《边狱之书》的抄本",
+    "边狱之书",
+    "师父的飞箭传书",
+    "芸香"
+   ]
+  },
+  "14": {
+   "type_name": "情报",
+   "n": 61,
+   "examples": [
+    "安全的路线",
+    "纺织品的活用法",
+    "阿尔法丝之诗",
+    "杀人事件的真相"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": 1,
+   "name": "ＨＰ恢复的葡萄",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Healing Grape"
+  },
+  {
+   "id": 2,
+   "name": "ＨＰ恢复的葡萄（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Healing Grape M"
+  },
+  {
+   "id": 3,
+   "name": "ＨＰ全体恢复的葡萄",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Healing Grape Bunch"
+  },
+  {
+   "id": 4,
+   "name": "ＳＰ恢复的李子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Inspiriting Plum"
+  },
+  {
+   "id": 5,
+   "name": "ＳＰ恢复的李子（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Inspiriting Plum M"
+  },
+  {
+   "id": 6,
+   "name": "ＳＰ全体恢复的李子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Inspiriting Plum Basket"
+  },
+  {
+   "id": 7,
+   "name": "ＢＰ恢复的石榴",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Energizing Pomegrante"
+  },
+  {
+   "id": 8,
+   "name": "ＢＰ恢复的石榴（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Energizing Pomegrante M"
+  },
+  {
+   "id": 9,
+   "name": "ＢＰ恢复的石榴（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Energizing Pomegrante L"
+  },
+  {
+   "id": 10,
+   "name": "ＨＰ／ＳＰ恢复的果酱",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Refreshing Jam"
+  },
+  {
+   "id": 11,
+   "name": "ＨＰ／ＳＰ／ＢＰ恢复的果酱",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Revitalizing Jam"
+  },
+  {
+   "id": 12,
+   "name": "复活的橄榄",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Olive of Life"
+  },
+  {
+   "id": 13,
+   "name": "复活的橄榄（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Olive of Life M"
+  },
+  {
+   "id": 14,
+   "name": "复活的橄榄（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Olive of Life L"
+  },
+  {
+   "id": 20,
+   "name": "毒治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Healing"
+  },
+  {
+   "id": 21,
+   "name": "沉默治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Clamor"
+  },
+  {
+   "id": 22,
+   "name": "黑暗治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Light"
+  },
+  {
+   "id": 23,
+   "name": "混乱治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Clarity"
+  },
+  {
+   "id": 24,
+   "name": "睡眠治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Awakening"
+  },
+  {
+   "id": 25,
+   "name": "恐怖治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Valor"
+  },
+  {
+   "id": 26,
+   "name": "昏迷治疗药草",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb of Revival"
+  },
+  {
+   "id": 30,
+   "name": "毒瓶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bottle of Poison Dust"
+  },
+  {
+   "id": 31,
+   "name": "暗黑瓶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bottle of Blinding Dust"
+  },
+  {
+   "id": 32,
+   "name": "混乱瓶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bottle of Befuddling Dust"
+  },
+  {
+   "id": 33,
+   "name": "睡眠瓶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bottle of Sleeping Dust"
+  },
+  {
+   "id": 40,
+   "name": "火之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fire Soulstone"
+  },
+  {
+   "id": 41,
+   "name": "火之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fire Soulstone M"
+  },
+  {
+   "id": 42,
+   "name": "火之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fire Soulstone L"
+  },
+  {
+   "id": 43,
+   "name": "冰之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Ice Soulstone"
+  },
+  {
+   "id": 44,
+   "name": "冰之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Ice Soulstone M"
+  },
+  {
+   "id": 45,
+   "name": "冰之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Ice Soulstone L"
+  },
+  {
+   "id": 46,
+   "name": "雷之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Thunder Soulstone"
+  },
+  {
+   "id": 47,
+   "name": "雷之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Thunder Soulstone M"
+  },
+  {
+   "id": 48,
+   "name": "雷之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Thunder Soulstone L"
+  },
+  {
+   "id": 49,
+   "name": "风之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Wind Soulstone"
+  },
+  {
+   "id": 50,
+   "name": "风之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Wind Soulstone M"
+  },
+  {
+   "id": 51,
+   "name": "风之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Wind Soulstone L"
+  },
+  {
+   "id": 52,
+   "name": "光之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Soulstone"
+  },
+  {
+   "id": 53,
+   "name": "光之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Soulstone M"
+  },
+  {
+   "id": 54,
+   "name": "光之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Soulstone L"
+  },
+  {
+   "id": 55,
+   "name": "暗之精灵石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Shadow Soulstone"
+  },
+  {
+   "id": 56,
+   "name": "暗之精灵石（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Shadow Soulstone M"
+  },
+  {
+   "id": 57,
+   "name": "暗之精灵石（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Shadow Soulstone L"
+  },
+  {
+   "id": 60,
+   "name": "增强ＨＰ的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Nourshing Nut"
+  },
+  {
+   "id": 61,
+   "name": "增强ＨＰ的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Nourshing Nut M"
+  },
+  {
+   "id": 62,
+   "name": "增强ＨＰ的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Nourshing Nut L"
+  },
+  {
+   "id": 63,
+   "name": "增强ＳＰ的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Invigorating Nut"
+  },
+  {
+   "id": 64,
+   "name": "增强ＳＰ的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Invigorating Nut M"
+  },
+  {
+   "id": 65,
+   "name": "增强ＳＰ的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Invigorating Nut L"
+  },
+  {
+   "id": 66,
+   "name": "增强物攻的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fortifying Nut"
+  },
+  {
+   "id": 67,
+   "name": "增强物攻的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fortifying Nut M"
+  },
+  {
+   "id": 68,
+   "name": "增强物攻的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fortifying Nut L"
+  },
+  {
+   "id": 69,
+   "name": "增强物防的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Tough Nut"
+  },
+  {
+   "id": 70,
+   "name": "增强物防的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Tough Nut M"
+  },
+  {
+   "id": 71,
+   "name": "增强物防的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Tough Nut L"
+  },
+  {
+   "id": 72,
+   "name": "增强属攻的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Magic Nut"
+  },
+  {
+   "id": 73,
+   "name": "增强属攻的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Magic Nut M"
+  },
+  {
+   "id": 74,
+   "name": "增强属攻的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Magic Nut L"
+  },
+  {
+   "id": 75,
+   "name": "增强属防的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Resistant Nut"
+  },
+  {
+   "id": 76,
+   "name": "增强属防的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Resistant Nut M"
+  },
+  {
+   "id": 77,
+   "name": "增强属防的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Resistant Nut L"
+  },
+  {
+   "id": 78,
+   "name": "增强命中的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Sharp Nut"
+  },
+  {
+   "id": 79,
+   "name": "增强命中的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Sharp Nut M"
+  },
+  {
+   "id": 80,
+   "name": "增强命中的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Sharp Nut L"
+  },
+  {
+   "id": 81,
+   "name": "增强回避的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Slippery Nut"
+  },
+  {
+   "id": 82,
+   "name": "增强回避的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Slippery Nut M"
+  },
+  {
+   "id": 83,
+   "name": "增强回避的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Slippery Nut L"
+  },
+  {
+   "id": 84,
+   "name": "增强会心的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Critical Nut"
+  },
+  {
+   "id": 85,
+   "name": "增强会心的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Critical Nut M"
+  },
+  {
+   "id": 86,
+   "name": "增强会心的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Critical Nut L"
+  },
+  {
+   "id": 87,
+   "name": "增强速度的坚果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Nut"
+  },
+  {
+   "id": 88,
+   "name": "增强速度的坚果（大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Nut M"
+  },
+  {
+   "id": 89,
+   "name": "增强速度的坚果（特大）",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Light Nut L"
+  },
+  {
+   "id": 90,
+   "name": "一段麻绳",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Scrap of Rope"
+  },
+  {
+   "id": 91,
+   "name": "绒毛娃娃",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Stuffed Toy"
+  },
+  {
+   "id": 92,
+   "name": "糖果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Candy"
+  },
+  {
+   "id": 93,
+   "name": "玻璃珠",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Glass Marble"
+  },
+  {
+   "id": 94,
+   "name": "手帕",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Handkerchief"
+  },
+  {
+   "id": 95,
+   "name": "小酒壶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Hip Flask"
+  },
+  {
+   "id": 96,
+   "name": "种子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Myterious Seed"
+  },
+  {
+   "id": 97,
+   "name": "鱼齿",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fish Tooth"
+  },
+  {
+   "id": 98,
+   "name": "原石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Mysterious Ore"
+  },
+  {
+   "id": 99,
+   "name": "树木果实",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Tree Nut"
+  },
+  {
+   "id": 100,
+   "name": "发梳",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Hairbrush"
+  },
+  {
+   "id": 101,
+   "name": "空空的钱包",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Empty Coin Pouch"
+  },
+  {
+   "id": 102,
+   "name": "钱包",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Coin Pouch"
+  },
+  {
+   "id": 103,
+   "name": "装了破烂儿的小袋子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Odds and Ends"
+  },
+  {
+   "id": 104,
+   "name": "大鸟的羽毛",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Large Feather"
+  },
+  {
+   "id": 105,
+   "name": "貌似金矿石的东西",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Dubious Gold Ore"
+  },
+  {
+   "id": 106,
+   "name": "金矿石般的东西",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Pseudo Gold Ore"
+  },
+  {
+   "id": 107,
+   "name": "看起来像金矿石的东西",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Fools Gold Ore"
+  },
+  {
+   "id": 108,
+   "name": "铜制提灯",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Copper Lantern"
+  },
+  {
+   "id": 109,
+   "name": "骨头",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bone"
+  },
+  {
+   "id": 110,
+   "name": "磨损的鞋子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Weathered Boots"
+  },
+  {
+   "id": 111,
+   "name": "脏脏的布球",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Dirty Ball of cloth"
+  },
+  {
+   "id": 113,
+   "name": "项圈",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Necklace"
+  },
+  {
+   "id": 114,
+   "name": "会中毒果实",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Poysenberry"
+  },
+  {
+   "id": 115,
+   "name": "失神饮料",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Pseudo Cider"
+  },
+  {
+   "id": 116,
+   "name": "鲜红的苹果",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Red Apple"
+  },
+  {
+   "id": 117,
+   "name": "吐息瓶",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Bottle Breath"
+  },
+  {
+   "id": 119,
+   "name": "魔物香水",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Monster Perfume"
+  },
+  {
+   "id": 121,
+   "name": "小杯子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Small Cup"
+  },
+  {
+   "id": 122,
+   "name": "擦得亮晶晶的银手表",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Silver Clock"
+  },
+  {
+   "id": 123,
+   "name": "带吻痕的肖像画",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Portrait with a Kiss"
+  },
+  {
+   "id": 124,
+   "name": "简单！冒险者入门",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Introduction to Adventuring"
+  },
+  {
+   "id": 125,
+   "name": "稀奇的石头",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Rare Stone"
+  },
+  {
+   "id": 126,
+   "name": "鼓胀的钱包",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Heavy Coin Pouch"
+  },
+  {
+   "id": 127,
+   "name": "纪念金币",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Commemorative Coin"
+  },
+  {
+   "id": 128,
+   "name": "放了银块的皮袋",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Silver filled Pouch"
+  },
+  {
+   "id": 130,
+   "name": "鸡毛掸子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Feather Duster"
+  },
+  {
+   "id": 131,
+   "name": "阿里的面包",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Alis Bread"
+  },
+  {
+   "id": 132,
+   "name": "约书亚的诗",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Joshuas Poem"
+  },
+  {
+   "id": 133,
+   "name": "猫眼石",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Cats Eye"
+  },
+  {
+   "id": 134,
+   "name": "带钱的项圈",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Tagged Collar"
+  },
+  {
+   "id": 135,
+   "name": "旧硬币",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Old Coin"
+  },
+  {
+   "id": 136,
+   "name": "放了铜块的麻袋",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Copper-filled Pouch"
+  },
+  {
+   "id": 137,
+   "name": "芸香药",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Herb-of-grace Potion"
+  },
+  {
+   "id": 138,
+   "name": "奇特的古董",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Curious Antique"
+  },
+  {
+   "id": 139,
+   "name": "目眩神迷的美术品",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Dazzling Artwork"
+  },
+  {
+   "id": 141,
+   "name": "锈蚀腐朽的杯子",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Rusty Cup"
+  },
+  {
+   "id": 142,
+   "name": "光泽不自然的金币",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Glossy Gold Coin"
+  },
+  {
+   "id": 143,
+   "name": "画了地图的布片",
+   "type": 1,
+   "type_name": "道具",
+   "en": "Cloth Map"
+  },
+  {
+   "id": 1001,
+   "name": "历战之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Battle tested Blade"
+  },
+  {
+   "id": 1002,
+   "name": "哈洛德之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Haralds Sword"
+  },
+  {
+   "id": 1003,
+   "name": "魔力之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Enchanted Sword"
+  },
+  {
+   "id": 1004,
+   "name": "禁忌之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Forbidden Blade"
+  },
+  {
+   "id": 1005,
+   "name": "维尔纳之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Werners Sword"
+  },
+  {
+   "id": 1006,
+   "name": "龙之军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Dragon Saber"
+  },
+  {
+   "id": 1007,
+   "name": "皇帝之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Emperors Blade"
+  },
+  {
+   "id": 1008,
+   "name": "透明军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Unseen Saber"
+  },
+  {
+   "id": 1009,
+   "name": "召唤死亡之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Deathly Blade"
+  },
+  {
+   "id": 1010,
+   "name": "三位一体剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Trinity Sword"
+  },
+  {
+   "id": 1011,
+   "name": "显赫之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Great Blade"
+  },
+  {
+   "id": 1012,
+   "name": "勇气之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Blade of Bravery"
+  },
+  {
+   "id": 1013,
+   "name": "天使军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Angel Saber"
+  },
+  {
+   "id": 1014,
+   "name": "白金剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Platinum Sword"
+  },
+  {
+   "id": 1015,
+   "name": "神圣之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Divine Blade"
+  },
+  {
+   "id": 1016,
+   "name": "暴力之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Carnage Blade"
+  },
+  {
+   "id": 1017,
+   "name": "骑士剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Knights Sword"
+  },
+  {
+   "id": 1018,
+   "name": "强化剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Refined Sword"
+  },
+  {
+   "id": 1019,
+   "name": "狙击军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Snipe Saber"
+  },
+  {
+   "id": 1020,
+   "name": "月之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Moonblade"
+  },
+  {
+   "id": 1021,
+   "name": "幻象之刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Mirage Blade"
+  },
+  {
+   "id": 1022,
+   "name": "老鹰军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Eagle Saber"
+  },
+  {
+   "id": 1023,
+   "name": "混用剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Bastard Sword"
+  },
+  {
+   "id": 1024,
+   "name": "重刃",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Heavy Blade"
+  },
+  {
+   "id": 1025,
+   "name": "猎鹰军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Falcon Saber"
+  },
+  {
+   "id": 1026,
+   "name": "精神剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Spirit Sword"
+  },
+  {
+   "id": 1027,
+   "name": "团长之剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Captain Sword"
+  },
+  {
+   "id": 1028,
+   "name": "巨剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Greatsword"
+  },
+  {
+   "id": 1029,
+   "name": "银制剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Silver Sword"
+  },
+  {
+   "id": 1030,
+   "name": "羽毛军刀",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Feather Saber"
+  },
+  {
+   "id": 1031,
+   "name": "阔剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Broadsword"
+  },
+  {
+   "id": 1032,
+   "name": "铁剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Iron Sword"
+  },
+  {
+   "id": 1033,
+   "name": "长剑",
+   "type": 2,
+   "type_name": "剑",
+   "en": "Long Sword"
+  },
+  {
+   "id": 1101,
+   "name": "历战之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Battle tested Spear"
+  },
+  {
+   "id": 1102,
+   "name": "贸易风之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Tradewinds Spear"
+  },
+  {
+   "id": 1103,
+   "name": "名手之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Masters Spear"
+  },
+  {
+   "id": 1104,
+   "name": "符文长柄刀",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Rune Glaive"
+  },
+  {
+   "id": 1105,
+   "name": "禁忌之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Forbidden Spear"
+  },
+  {
+   "id": 1106,
+   "name": "炽天使长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Seraphim Spear"
+  },
+  {
+   "id": 1107,
+   "name": "灾厄骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Scourge Lance"
+  },
+  {
+   "id": 1108,
+   "name": "灵魂长柄刀",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Soul Glaive"
+  },
+  {
+   "id": 1109,
+   "name": "翡翠骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Jade Lance"
+  },
+  {
+   "id": 1110,
+   "name": "胜利长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Victors Spear"
+  },
+  {
+   "id": 1111,
+   "name": "白金长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Platinum Spear"
+  },
+  {
+   "id": 1112,
+   "name": "米格尔之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Miguels Spear"
+  },
+  {
+   "id": 1113,
+   "name": "帝国骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Imperial Lance"
+  },
+  {
+   "id": 1114,
+   "name": "魔法长柄刀",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Magus Glaive"
+  },
+  {
+   "id": 1115,
+   "name": "刺猬长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Hedgehog Spear"
+  },
+  {
+   "id": 1116,
+   "name": "大桥骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Bridge Lance"
+  },
+  {
+   "id": 1117,
+   "name": "元素长柄刀",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Elemental Glaive"
+  },
+  {
+   "id": 1118,
+   "name": "豹骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Jaguar Lance"
+  },
+  {
+   "id": 1119,
+   "name": "重骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Heavy Lance"
+  },
+  {
+   "id": 1120,
+   "name": "灾祸之枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Calamity Spear"
+  },
+  {
+   "id": 1121,
+   "name": "强盗长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Bandits Spear"
+  },
+  {
+   "id": 1122,
+   "name": "沙漠长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Sunlands Spear"
+  },
+  {
+   "id": 1123,
+   "name": "战争骑枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "War Lance"
+  },
+  {
+   "id": 1124,
+   "name": "银制长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Silver Spear"
+  },
+  {
+   "id": 1125,
+   "name": "魔咒长柄刀",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Arcane Glaive"
+  },
+  {
+   "id": 1126,
+   "name": "战争长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "War Spear"
+  },
+  {
+   "id": 1127,
+   "name": "纪念鱼叉",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Memorial Harpoon"
+  },
+  {
+   "id": 1128,
+   "name": "铁制长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Iron Spear"
+  },
+  {
+   "id": 1129,
+   "name": "长枪",
+   "type": 3,
+   "type_name": "枪",
+   "en": "Spear"
+  },
+  {
+   "id": 1201,
+   "name": "历战短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Battle tested Dagger"
+  },
+  {
+   "id": 1202,
+   "name": "希斯柯特的短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Heathcotes Dagger"
+  },
+  {
+   "id": 1203,
+   "name": "大蛇短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Viper Dagger"
+  },
+  {
+   "id": 1204,
+   "name": "金钢合金短刀",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Adamatine Dagger"
+  },
+  {
+   "id": 1205,
+   "name": "禁忌短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Forbidden Dagger"
+  },
+  {
+   "id": 1206,
+   "name": "万速匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Legion Dagger"
+  },
+  {
+   "id": 1207,
+   "name": "符文短刀",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Rune Knife"
+  },
+  {
+   "id": 1208,
+   "name": "终极破坏者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Ultimate Breaker"
+  },
+  {
+   "id": 1209,
+   "name": "毁灭破坏者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Doombreaker"
+  },
+  {
+   "id": 1210,
+   "name": "刺客匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Assassins Dagger"
+  },
+  {
+   "id": 1211,
+   "name": "灵魂匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Soul Knife"
+  },
+  {
+   "id": 1212,
+   "name": "腥红匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Crimson Dagger"
+  },
+  {
+   "id": 1213,
+   "name": "正义破坏者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Justice Breaker"
+  },
+  {
+   "id": 1214,
+   "name": "破天者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Skybreaker"
+  },
+  {
+   "id": 1215,
+   "name": "魔法匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Magus Knife"
+  },
+  {
+   "id": 1216,
+   "name": "越狱者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Gaolbreaker"
+  },
+  {
+   "id": 1217,
+   "name": "基甸的短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Gideons Dagger"
+  },
+  {
+   "id": 1218,
+   "name": "妖精匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Tricksters Dagger"
+  },
+  {
+   "id": 1219,
+   "name": "新月匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Crescent Dagger"
+  },
+  {
+   "id": 1220,
+   "name": "断链者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Chainbreaker"
+  },
+  {
+   "id": 1221,
+   "name": "破剑者",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Swordbreaker"
+  },
+  {
+   "id": 1222,
+   "name": "银制匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Silver Dagger"
+  },
+  {
+   "id": 1223,
+   "name": "穿孔匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Piercing Dagger"
+  },
+  {
+   "id": 1224,
+   "name": "猎鹰匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Falcon Dagger"
+  },
+  {
+   "id": 1225,
+   "name": "迷惑短剑",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Befuddling Dagger"
+  },
+  {
+   "id": 1226,
+   "name": "魔咒匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Arcane Knife"
+  },
+  {
+   "id": 1227,
+   "name": "刺击匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Stinging Dagger"
+  },
+  {
+   "id": 1228,
+   "name": "铁制匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Iron Dagger"
+  },
+  {
+   "id": 1229,
+   "name": "匕首",
+   "type": 4,
+   "type_name": "短剑",
+   "en": "Dagger"
+  },
+  {
+   "id": 1301,
+   "name": "历战之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Battle tested Axe"
+  },
+  {
+   "id": 1302,
+   "name": "纪念之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Memorial Axe"
+  },
+  {
+   "id": 1303,
+   "name": "死亡猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Death Cleaver"
+  },
+  {
+   "id": 1304,
+   "name": "双刃战斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Double Tomahawk"
+  },
+  {
+   "id": 1305,
+   "name": "禁忌之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Forbidden Axe"
+  },
+  {
+   "id": 1306,
+   "name": "食人魔猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Ogre Cleaver"
+  },
+  {
+   "id": 1307,
+   "name": "符文手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Rune Hatchet"
+  },
+  {
+   "id": 1308,
+   "name": "金斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Golden Axe"
+  },
+  {
+   "id": 1309,
+   "name": "巨大斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Gargantuan Axe"
+  },
+  {
+   "id": 1310,
+   "name": "金钢合金手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Adamatine Hatchet"
+  },
+  {
+   "id": 1311,
+   "name": "山丘猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Hill Cleaver"
+  },
+  {
+   "id": 1312,
+   "name": "精神手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Spirit Hatchet"
+  },
+  {
+   "id": 1313,
+   "name": "元素手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Elemental Hatchet"
+  },
+  {
+   "id": 1314,
+   "name": "地狱斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Inferno Axe"
+  },
+  {
+   "id": 1315,
+   "name": "蜥蜴王之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Lizardkings Axe"
+  },
+  {
+   "id": 1316,
+   "name": "重力子斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Graviton Axe"
+  },
+  {
+   "id": 1317,
+   "name": "灰熊猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Bear Cleaver"
+  },
+  {
+   "id": 1318,
+   "name": "岩石猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Rock Cleaver"
+  },
+  {
+   "id": 1319,
+   "name": "灵魂手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Soul Hatchet"
+  },
+  {
+   "id": 1320,
+   "name": "尖角猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Horn Cleaver"
+  },
+  {
+   "id": 1321,
+   "name": "银斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Argent Axe"
+  },
+  {
+   "id": 1322,
+   "name": "魔法手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Magus Hatchet"
+  },
+  {
+   "id": 1323,
+   "name": "维京斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Viking Axe"
+  },
+  {
+   "id": 1324,
+   "name": "奥玛尔之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Omars Axe"
+  },
+  {
+   "id": 1325,
+   "name": "钢斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Steel Axe"
+  },
+  {
+   "id": 1326,
+   "name": "猛击斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Cleaver"
+  },
+  {
+   "id": 1327,
+   "name": "魔力之斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Enchanted Axe"
+  },
+  {
+   "id": 1328,
+   "name": "重斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Heavy Axe"
+  },
+  {
+   "id": 1329,
+   "name": "银制斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Silver Axe"
+  },
+  {
+   "id": 1330,
+   "name": "战斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Battle Axe"
+  },
+  {
+   "id": 1331,
+   "name": "魔咒手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Arcane Hatchet"
+  },
+  {
+   "id": 1332,
+   "name": "铁斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Iron Axe"
+  },
+  {
+   "id": 1333,
+   "name": "手斧",
+   "type": 5,
+   "type_name": "斧",
+   "en": "Handaxe"
+  },
+  {
+   "id": 1401,
+   "name": "历战之弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Battle tested Bow"
+  },
+  {
+   "id": 1402,
+   "name": "古来弓・岚",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Primeval Bow of Storms"
+  },
+  {
+   "id": 1403,
+   "name": "超越弓・幻",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Transcendent Bow of Shadows"
+  },
+  {
+   "id": 1404,
+   "name": "进化弓・鹰",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Improved bow of the Eagle"
+  },
+  {
+   "id": 1405,
+   "name": "禁忌之弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Forbidden Bow"
+  },
+  {
+   "id": 1406,
+   "name": "海伯利昂弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Hyperion Bow"
+  },
+  {
+   "id": 1407,
+   "name": "弓圣的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Holy Longbow"
+  },
+  {
+   "id": 1408,
+   "name": "符文弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Rune Bow"
+  },
+  {
+   "id": 1409,
+   "name": "雪男的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Yetis Long Bow"
+  },
+  {
+   "id": 1410,
+   "name": "金钢合金弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Adamatine Bow"
+  },
+  {
+   "id": 1411,
+   "name": "强化弓・隼",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Augmented Bow of the Falcon"
+  },
+  {
+   "id": 1412,
+   "name": "达人的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Masters Longbow"
+  },
+  {
+   "id": 1413,
+   "name": "光辉弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Brilliant Bow"
+  },
+  {
+   "id": 1414,
+   "name": "海盗的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Pirates Longbow"
+  },
+  {
+   "id": 1415,
+   "name": "精神弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Spirit Bow"
+  },
+  {
+   "id": 1416,
+   "name": "战姬的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Huntresss Longbow"
+  },
+  {
+   "id": 1417,
+   "name": "元素弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Elemental Bow"
+  },
+  {
+   "id": 1418,
+   "name": "影弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Shadow Bow"
+  },
+  {
+   "id": 1419,
+   "name": "战斧弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Tomahawk Bow"
+  },
+  {
+   "id": 1420,
+   "name": "神射手的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Marksmans Longbow"
+  },
+  {
+   "id": 1421,
+   "name": "灵魂弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Soul Bow"
+  },
+  {
+   "id": 1422,
+   "name": "士兵的大弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Soldiers Longbow"
+  },
+  {
+   "id": 1423,
+   "name": "重弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Heavy Bow"
+  },
+  {
+   "id": 1424,
+   "name": "魔法弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Maguss Bow"
+  },
+  {
+   "id": 1425,
+   "name": "杀手弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Killer Bow"
+  },
+  {
+   "id": 1426,
+   "name": "魔咒弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Arcane Bow"
+  },
+  {
+   "id": 1427,
+   "name": "狼弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Wolfs Bow"
+  },
+  {
+   "id": 1428,
+   "name": "石弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Stone Bow"
+  },
+  {
+   "id": 1429,
+   "name": "复合弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Composite Bow"
+  },
+  {
+   "id": 1430,
+   "name": "长弓",
+   "type": 6,
+   "type_name": "弓",
+   "en": "Longbow"
+  },
+  {
+   "id": 1501,
+   "name": "历战之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Battle tested Staff"
+  },
+  {
+   "id": 1502,
+   "name": "大主教之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Bishops Staff"
+  },
+  {
+   "id": 1503,
+   "name": "斗智之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Knowledge Staff"
+  },
+  {
+   "id": 1504,
+   "name": "术士之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Wizards Rod"
+  },
+  {
+   "id": 1505,
+   "name": "绝对零度之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Absolute Zero Staff"
+  },
+  {
+   "id": 1506,
+   "name": "世界树手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Yggdrasil Staff"
+  },
+  {
+   "id": 1507,
+   "name": "马提亚斯之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Mattiass Scepter"
+  },
+  {
+   "id": 1508,
+   "name": "禁忌之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Forbidden Staff"
+  },
+  {
+   "id": 1509,
+   "name": "魔法之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Enchanted Rod"
+  },
+  {
+   "id": 1510,
+   "name": "巨人棍棒",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Giants Club"
+  },
+  {
+   "id": 1511,
+   "name": "陨石杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Meteorite Rod"
+  },
+  {
+   "id": 1512,
+   "name": "晨星锤",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Morning Star"
+  },
+  {
+   "id": 1513,
+   "name": "智慧手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Wisdom Staff"
+  },
+  {
+   "id": 1514,
+   "name": "大蓝宝石杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Sturdy Sapphire Rod"
+  },
+  {
+   "id": 1515,
+   "name": "巨锤",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Sledgehammer"
+  },
+  {
+   "id": 1516,
+   "name": "蓝宝石杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Sapphire Rod"
+  },
+  {
+   "id": 1517,
+   "name": "战锤",
+   "type": 7,
+   "type_name": "杖",
+   "en": "War Hammer"
+  },
+  {
+   "id": 1518,
+   "name": "黑手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Black Staff"
+  },
+  {
+   "id": 1519,
+   "name": "法师手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Mages Staff"
+  },
+  {
+   "id": 1520,
+   "name": "大石英杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Sturdy Quartz Rod"
+  },
+  {
+   "id": 1521,
+   "name": "奇迹手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Staff of Wonders"
+  },
+  {
+   "id": 1522,
+   "name": "长柄权杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Pole Mace"
+  },
+  {
+   "id": 1523,
+   "name": "橡木手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Oak Staff"
+  },
+  {
+   "id": 1524,
+   "name": "连伽",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Flail"
+  },
+  {
+   "id": 1525,
+   "name": "理力之杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Psychic Staff"
+  },
+  {
+   "id": 1526,
+   "name": "权杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Mace"
+  },
+  {
+   "id": 1527,
+   "name": "月桂手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Laurel Staff"
+  },
+  {
+   "id": 1528,
+   "name": "复合杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Composite Staff"
+  },
+  {
+   "id": 1529,
+   "name": "石英杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Quartz Rod"
+  },
+  {
+   "id": 1530,
+   "name": "光之手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Light Staff"
+  },
+  {
+   "id": 1531,
+   "name": "石杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Stone Rod"
+  },
+  {
+   "id": 1532,
+   "name": "手杖",
+   "type": 7,
+   "type_name": "杖",
+   "en": "Staff"
+  },
+  {
+   "id": 1601,
+   "name": "历战之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Battle tested Shield"
+  },
+  {
+   "id": 1602,
+   "name": "米克马克之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Mikk and Makks Shield"
+  },
+  {
+   "id": 1603,
+   "name": "禁忌之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Forbidden Shield"
+  },
+  {
+   "id": 1604,
+   "name": "力之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Force Shield"
+  },
+  {
+   "id": 1605,
+   "name": "巨盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Gargantuan Shield"
+  },
+  {
+   "id": 1606,
+   "name": "海兽之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Leviathan Shield"
+  },
+  {
+   "id": 1607,
+   "name": "骑士盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Knights Shield"
+  },
+  {
+   "id": 1608,
+   "name": "古斯塔夫之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Gustavs Shield"
+  },
+  {
+   "id": 1609,
+   "name": "金钢合金盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Adamantine Shield"
+  },
+  {
+   "id": 1610,
+   "name": "塔盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Tower Shield"
+  },
+  {
+   "id": 1611,
+   "name": "尖刺盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Spiked Shield"
+  },
+  {
+   "id": 1612,
+   "name": "元素盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Elemental Shield"
+  },
+  {
+   "id": 1613,
+   "name": "闪避之盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Elusive Shield"
+  },
+  {
+   "id": 1614,
+   "name": "板盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Plate Shield"
+  },
+  {
+   "id": 1615,
+   "name": "鸢形盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Kite Shield"
+  },
+  {
+   "id": 1616,
+   "name": "大盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Sturdy Shield"
+  },
+  {
+   "id": 1617,
+   "name": "圆盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Round Shield"
+  },
+  {
+   "id": 1618,
+   "name": "小圆盾",
+   "type": 8,
+   "type_name": "盾",
+   "en": "Buckler"
+  },
+  {
+   "id": 1701,
+   "name": "水晶头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Crystal Helm"
+  },
+  {
+   "id": 1702,
+   "name": "睡神宝冠",
+   "type": 9,
+   "type_name": "头",
+   "en": "Hypnos Crown"
+  },
+  {
+   "id": 1703,
+   "name": "金钢合金帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Adamantine Hat"
+  },
+  {
+   "id": 1704,
+   "name": "龙之头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Dragons Helm"
+  },
+  {
+   "id": 1705,
+   "name": "魔物操控人的帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Monster Trainers Hat"
+  },
+  {
+   "id": 1706,
+   "name": "教师的帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Teachers Hat"
+  },
+  {
+   "id": 1707,
+   "name": "冒险家的帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Adventurers Hat"
+  },
+  {
+   "id": 1708,
+   "name": "白金头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Platinum Helm"
+  },
+  {
+   "id": 1709,
+   "name": "历史研究家的帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Historian's Hat"
+  },
+  {
+   "id": 1710,
+   "name": "海市蜃楼帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Oasis Hat"
+  },
+  {
+   "id": 1711,
+   "name": "雷布洛的头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Revellos Helm"
+  },
+  {
+   "id": 1712,
+   "name": "帝国头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Imperial Helm"
+  },
+  {
+   "id": 1713,
+   "name": "静寂头巾",
+   "type": 9,
+   "type_name": "头",
+   "en": "Silent Bandana"
+  },
+  {
+   "id": 1714,
+   "name": "毛皮帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Fur Cap"
+  },
+  {
+   "id": 1715,
+   "name": "魔法饰环",
+   "type": 9,
+   "type_name": "头",
+   "en": "Enchanted Circlet"
+  },
+  {
+   "id": 1716,
+   "name": "元素帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Elemental Hat"
+  },
+  {
+   "id": 1717,
+   "name": "老兵的头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Veterans Helm"
+  },
+  {
+   "id": 1718,
+   "name": "盖雷斯的头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Gareths Helm"
+  },
+  {
+   "id": 1719,
+   "name": "显赫头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Grand Helm"
+  },
+  {
+   "id": 1720,
+   "name": "犄角头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Horned Helm"
+  },
+  {
+   "id": 1721,
+   "name": "星屑帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Starlight Hat"
+  },
+  {
+   "id": 1722,
+   "name": "高速头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Hasty Helm"
+  },
+  {
+   "id": 1723,
+   "name": "猎鹰的帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Falcon Hat"
+  },
+  {
+   "id": 1724,
+   "name": "祭司之帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Bishops Hat"
+  },
+  {
+   "id": 1725,
+   "name": "黄金发饰",
+   "type": 9,
+   "type_name": "头",
+   "en": "Golden Hairpiece"
+  },
+  {
+   "id": 1726,
+   "name": "银制头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Silver Helm"
+  },
+  {
+   "id": 1727,
+   "name": "雪隐兜帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Snowy Hood"
+  },
+  {
+   "id": 1728,
+   "name": "神圣头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Saintly Tiara"
+  },
+  {
+   "id": 1729,
+   "name": "脉轮头带",
+   "type": 9,
+   "type_name": "头",
+   "en": "Chakra Band"
+  },
+  {
+   "id": 1730,
+   "name": "大头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Sturdy Helm"
+  },
+  {
+   "id": 1731,
+   "name": "飞行头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Flying Helm"
+  },
+  {
+   "id": 1732,
+   "name": "黑帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Black Cap"
+  },
+  {
+   "id": 1733,
+   "name": "帽盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Headgear"
+  },
+  {
+   "id": 1734,
+   "name": "饰环",
+   "type": 9,
+   "type_name": "头",
+   "en": "Circlet"
+  },
+  {
+   "id": 1735,
+   "name": "铁制头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Iron Helm"
+  },
+  {
+   "id": 1736,
+   "name": "银发饰",
+   "type": 9,
+   "type_name": "头",
+   "en": "Silver Hairpiece"
+  },
+  {
+   "id": 1737,
+   "name": "青铜头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Bronze Helm"
+  },
+  {
+   "id": 1738,
+   "name": "羽毛帽",
+   "type": 9,
+   "type_name": "头",
+   "en": "Feathered Hat"
+  },
+  {
+   "id": 1739,
+   "name": "尖帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Pointed Hat"
+  },
+  {
+   "id": 1740,
+   "name": "橡胶头盔",
+   "type": 9,
+   "type_name": "头",
+   "en": "Leather Helm"
+  },
+  {
+   "id": 1741,
+   "name": "皮帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Leather Hat"
+  },
+  {
+   "id": 1742,
+   "name": "帽子",
+   "type": 9,
+   "type_name": "头",
+   "en": "Ordinary Hat"
+  },
+  {
+   "id": 1801,
+   "name": "水晶盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Crystal Armor"
+  },
+  {
+   "id": 1802,
+   "name": "水晶背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Crystal Vest"
+  },
+  {
+   "id": 1803,
+   "name": "大圣火长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Robe of the Flame"
+  },
+  {
+   "id": 1804,
+   "name": "龙之盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Dragonscale Armor"
+  },
+  {
+   "id": 1805,
+   "name": "龙之背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Dragons Vest"
+  },
+  {
+   "id": 1806,
+   "name": "精致舞娘衣服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Ethereal Dancer Garb"
+  },
+  {
+   "id": 1807,
+   "name": "魔术师长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Sorcerers Robe"
+  },
+  {
+   "id": 1808,
+   "name": "告解盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Confessional Armor"
+  },
+  {
+   "id": 1809,
+   "name": "名家铠甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "High Houses Armor"
+  },
+  {
+   "id": 1810,
+   "name": "公主大衣",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Princesss Coat"
+  },
+  {
+   "id": 1811,
+   "name": "圣火骑士的礼服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Ardante Attire"
+  },
+  {
+   "id": 1812,
+   "name": "龙姬之衣",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Robe of the Dragon Princess"
+  },
+  {
+   "id": 1813,
+   "name": "白金盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Platinum Armor"
+  },
+  {
+   "id": 1814,
+   "name": "执念大衣",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Vendetta Coat"
+  },
+  {
+   "id": 1815,
+   "name": "帝国盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Imperial Armor"
+  },
+  {
+   "id": 1816,
+   "name": "白金背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Platinum Vest"
+  },
+  {
+   "id": 1817,
+   "name": "帝国背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Imperial Vest"
+  },
+  {
+   "id": 1818,
+   "name": "元素重甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Elemental Heavy Armor"
+  },
+  {
+   "id": 1819,
+   "name": "寂静斗篷",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Silent Cape"
+  },
+  {
+   "id": 1820,
+   "name": "古老长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Primeval Robe"
+  },
+  {
+   "id": 1821,
+   "name": "彩虹长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Rainbow Robe"
+  },
+  {
+   "id": 1822,
+   "name": "元素轻甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Elemental Light Armor"
+  },
+  {
+   "id": 1823,
+   "name": "毛皮大衣",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Fur Coat"
+  },
+  {
+   "id": 1824,
+   "name": "异国之服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Exotic Garb"
+  },
+  {
+   "id": 1825,
+   "name": "显赫盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Grand Armor"
+  },
+  {
+   "id": 1826,
+   "name": "黑曜会之服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Obsidian Garb"
+  },
+  {
+   "id": 1827,
+   "name": "显赫背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Grand Vest"
+  },
+  {
+   "id": 1828,
+   "name": "猎鹰之服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Falcon Garb"
+  },
+  {
+   "id": 1829,
+   "name": "元素长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Elemental Robe"
+  },
+  {
+   "id": 1830,
+   "name": "犄角盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Spiked Armor"
+  },
+  {
+   "id": 1831,
+   "name": "银制盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Silver Armor"
+  },
+  {
+   "id": 1832,
+   "name": "犄角背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Spiked Vest"
+  },
+  {
+   "id": 1833,
+   "name": "银制背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Silver Vest"
+  },
+  {
+   "id": 1834,
+   "name": "魔咒长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Charm Robe"
+  },
+  {
+   "id": 1835,
+   "name": "雪隐斗篷",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Snowy Cape"
+  },
+  {
+   "id": 1836,
+   "name": "铁制盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Iron Armor"
+  },
+  {
+   "id": 1837,
+   "name": "大盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Sturdy Armor"
+  },
+  {
+   "id": 1838,
+   "name": "铁制背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Iron Vest"
+  },
+  {
+   "id": 1839,
+   "name": "安宁之服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Peacebringers Garb"
+  },
+  {
+   "id": 1840,
+   "name": "大背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Sturdy Vest"
+  },
+  {
+   "id": 1841,
+   "name": "毛皮长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Fur Robe"
+  },
+  {
+   "id": 1842,
+   "name": "黑装束",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Black Attire"
+  },
+  {
+   "id": 1843,
+   "name": "疾风之服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Wind Attire"
+  },
+  {
+   "id": 1844,
+   "name": "传统舞娘衣服",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Traditional Dancer Garb"
+  },
+  {
+   "id": 1845,
+   "name": "青铜盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Bronze Armor"
+  },
+  {
+   "id": 1846,
+   "name": "青铜背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Bronze Vest"
+  },
+  {
+   "id": 1847,
+   "name": "亚麻长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Linen Robe"
+  },
+  {
+   "id": 1848,
+   "name": "橡胶盔甲",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Leather Armor"
+  },
+  {
+   "id": 1849,
+   "name": "橡胶背心",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Leather Vest"
+  },
+  {
+   "id": 1850,
+   "name": "长袍",
+   "type": 10,
+   "type_name": "身体",
+   "en": "Robe"
+  },
+  {
+   "id": 1901,
+   "name": "隔离缎带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Spurning Ribbon"
+  },
+  {
+   "id": 1903,
+   "name": "引诱缎带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Alluring Ribbon"
+  },
+  {
+   "id": 1904,
+   "name": "队长的徽章",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Captains Badge"
+  },
+  {
+   "id": 1905,
+   "name": "友情的徽章",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Badge of Friendship"
+  },
+  {
+   "id": 1906,
+   "name": "龙之领巾",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Dragons Scarf"
+  },
+  {
+   "id": 1907,
+   "name": "兽之领巾",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Beastly Scarf"
+  },
+  {
+   "id": 1908,
+   "name": "王家之证",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Royal Crest"
+  },
+  {
+   "id": 1909,
+   "name": "守墓人之证",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Gravekeepers Mark"
+  },
+  {
+   "id": 1910,
+   "name": "物理腰带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Physical Belt"
+  },
+  {
+   "id": 1911,
+   "name": "精神腰带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Mental Belt"
+  },
+  {
+   "id": 1912,
+   "name": "加护的饰章",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Blessed Blazon"
+  },
+  {
+   "id": 1913,
+   "name": "守备的饰章",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Blazon of Protection"
+  },
+  {
+   "id": 1914,
+   "name": "力量腰带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Mighty Belt"
+  },
+  {
+   "id": 1915,
+   "name": "元素增幅器",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Elemental Augmentor"
+  },
+  {
+   "id": 1916,
+   "name": "守护者腰带",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Guardian Amulet"
+  },
+  {
+   "id": 1917,
+   "name": "元素守护者",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Elemental Ward"
+  },
+  {
+   "id": 1918,
+   "name": "体力项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Empowering Necklace"
+  },
+  {
+   "id": 1919,
+   "name": "精神项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Stimulating Necklace"
+  },
+  {
+   "id": 1920,
+   "name": "守护项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Protective Necklace"
+  },
+  {
+   "id": 1921,
+   "name": "狙击项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Unerring Necklace"
+  },
+  {
+   "id": 1922,
+   "name": "察知项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Enlightening Necklace"
+  },
+  {
+   "id": 1923,
+   "name": "灵敏项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Sprightly Necklace"
+  },
+  {
+   "id": 1924,
+   "name": "会心项链",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Critical Necklace"
+  },
+  {
+   "id": 1925,
+   "name": "体力手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Empowering Bracelet"
+  },
+  {
+   "id": 1926,
+   "name": "精神手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Stimulating Bracelet"
+  },
+  {
+   "id": 1927,
+   "name": "守护手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Protective Bracelet"
+  },
+  {
+   "id": 1928,
+   "name": "狙击手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Unerring Bracelet"
+  },
+  {
+   "id": 1929,
+   "name": "察知手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Enlightening Bracelet"
+  },
+  {
+   "id": 1930,
+   "name": "灵敏手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Sprightly Bracelet"
+  },
+  {
+   "id": 1931,
+   "name": "会心手环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Critical Bracelet"
+  },
+  {
+   "id": 1932,
+   "name": "体力戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Empowering Ring"
+  },
+  {
+   "id": 1933,
+   "name": "精神戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Stimulating Ring"
+  },
+  {
+   "id": 1934,
+   "name": "守护戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Protective Ring"
+  },
+  {
+   "id": 1935,
+   "name": "狙击戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Unerring Ring"
+  },
+  {
+   "id": 1936,
+   "name": "察知戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Enlightening Ring"
+  },
+  {
+   "id": 1937,
+   "name": "灵敏戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Sprightly Ring"
+  },
+  {
+   "id": 1938,
+   "name": "会心戒指",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Critical Ring"
+  },
+  {
+   "id": 1939,
+   "name": "体力耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Empowering Earring"
+  },
+  {
+   "id": 1940,
+   "name": "精神耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Stimulating Earring"
+  },
+  {
+   "id": 1941,
+   "name": "守护耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Protective Earring"
+  },
+  {
+   "id": 1942,
+   "name": "狙击耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Unerring Earring"
+  },
+  {
+   "id": 1943,
+   "name": "察知耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Enlightening Earring"
+  },
+  {
+   "id": 1944,
+   "name": "灵敏耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Sprightly Earring"
+  },
+  {
+   "id": 1945,
+   "name": "会心耳环",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Critical Earring"
+  },
+  {
+   "id": 1946,
+   "name": "纺织者的护身符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Weavers Charm"
+  },
+  {
+   "id": 1947,
+   "name": "爱妻家的护身符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Gentlemans Charm"
+  },
+  {
+   "id": 1948,
+   "name": "美食家的护身符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Gourmets Charm"
+  },
+  {
+   "id": 1949,
+   "name": "火焰避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Inferno Amulet"
+  },
+  {
+   "id": 1950,
+   "name": "冰冻避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Blizzard Amulet"
+  },
+  {
+   "id": 1951,
+   "name": "龙卷风避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Tempest Amulet"
+  },
+  {
+   "id": 1952,
+   "name": "雷电避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Thunderstorm Amulet"
+  },
+  {
+   "id": 1953,
+   "name": "霄暗避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Void Amulet"
+  },
+  {
+   "id": 1954,
+   "name": "闪光避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Gleaming Amulet"
+  },
+  {
+   "id": 1955,
+   "name": "火之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Fire Amulet"
+  },
+  {
+   "id": 1956,
+   "name": "冰之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Ice Amulet"
+  },
+  {
+   "id": 1957,
+   "name": "风之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Wind Amulet"
+  },
+  {
+   "id": 1958,
+   "name": "雷之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Lightning Amulet"
+  },
+  {
+   "id": 1959,
+   "name": "暗之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Dark Amulet"
+  },
+  {
+   "id": 1960,
+   "name": "光之避邪符",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Light Amulet"
+  },
+  {
+   "id": 1961,
+   "name": "猛毒耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Antidote Stone"
+  },
+  {
+   "id": 1962,
+   "name": "睡眠耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Wakeful Stone"
+  },
+  {
+   "id": 1963,
+   "name": "沉默耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Articulate Stone"
+  },
+  {
+   "id": 1964,
+   "name": "暗黑耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Bright Stone"
+  },
+  {
+   "id": 1965,
+   "name": "恐怖耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Calming Stone"
+  },
+  {
+   "id": 1966,
+   "name": "混乱耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Clarity Stone"
+  },
+  {
+   "id": 1967,
+   "name": "昏迷耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Conscious Stone"
+  },
+  {
+   "id": 1968,
+   "name": "即死耐性石",
+   "type": 11,
+   "type_name": "饰品",
+   "en": "Vivifying Stone"
+  },
+  {
+   "id": 2500,
+   "name": "药的素材",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Soothing Seed"
+  },
+  {
+   "id": 2501,
+   "name": "药的素材（扩散）",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Soothing Dust"
+  },
+  {
+   "id": 2502,
+   "name": "秘药的素材",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Purifying Seed"
+  },
+  {
+   "id": 2503,
+   "name": "秘药的素材（扩散）",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Purifying Dust"
+  },
+  {
+   "id": 2504,
+   "name": "含毒的素材",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Injurious Seed"
+  },
+  {
+   "id": 2505,
+   "name": "含毒的素材（扩散）",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Injurious Dust"
+  },
+  {
+   "id": 2506,
+   "name": "超含毒的素材",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Ruinous Seed"
+  },
+  {
+   "id": 2507,
+   "name": "超含毒的素材（扩散）",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Ruinous Dust"
+  },
+  {
+   "id": 2516,
+   "name": "毒利米树之叶",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Noxroot"
+  },
+  {
+   "id": 2517,
+   "name": "睡眠花之叶",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Sleepweed"
+  },
+  {
+   "id": 2518,
+   "name": "混乱多之叶",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Addlewort"
+  },
+  {
+   "id": 2519,
+   "name": "葡萄树液",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Essence of Grape"
+  },
+  {
+   "id": 2520,
+   "name": "李子树液",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Essence of Plum"
+  },
+  {
+   "id": 2521,
+   "name": "石榴树液",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Essence of Pomegranate"
+  },
+  {
+   "id": 2522,
+   "name": "橄榄花",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Olive Bloom"
+  },
+  {
+   "id": 2523,
+   "name": "神秘之花",
+   "type": 12,
+   "type_name": "调和素材",
+   "en": "Curious Bloom"
+  },
+  {
+   "id": 302,
+   "name": "《边狱之书》的抄本",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Translated Tome"
+  },
+  {
+   "id": 303,
+   "name": "边狱之书",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Original Tome"
+  },
+  {
+   "id": 304,
+   "name": "师父的飞箭传书",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter from Master"
+  },
+  {
+   "id": 305,
+   "name": "芸香",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Herb of grace"
+  },
+  {
+   "id": 307,
+   "name": "蓝旗鱼",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Blue swordfish"
+  },
+  {
+   "id": 308,
+   "name": "葡萄酒",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Bottle of Wine"
+  },
+  {
+   "id": 309,
+   "name": "睡眠草",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Sleepweed 2"
+  },
+  {
+   "id": 310,
+   "name": "无名手记",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Anonymous Diary"
+  },
+  {
+   "id": 311,
+   "name": "垃圾石(311=312)",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Nondescript Stone"
+  },
+  {
+   "id": 312,
+   "name": "碧闪石(311=312)",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Skystone"
+  },
+  {
+   "id": 313,
+   "name": "艾德哈尔特之盾",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Edbarts Shield"
+  },
+  {
+   "id": 314,
+   "name": "旧地图",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Ancient Map"
+  },
+  {
+   "id": 316,
+   "name": "巴尔塔扎尔的信",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter from Baltazar"
+  },
+  {
+   "id": 315,
+   "name": "艾尔多莱特",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Eldrite"
+  },
+  {
+   "id": 317,
+   "name": "采火灯",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Aelfrics Lanthorn"
+  },
+  {
+   "id": 318,
+   "name": "信用证明书",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter of Introduction"
+  },
+  {
+   "id": 320,
+   "name": "绿洲的水",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Oasis Water"
+  },
+  {
+   "id": 321,
+   "name": "飞龙的皮膜",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Wyvern Scale"
+  },
+  {
+   "id": 322,
+   "name": "水晶矿石",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Crystal Ore"
+  },
+  {
+   "id": 323,
+   "name": "水晶钥匙",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Crystal Key"
+  },
+  {
+   "id": 326,
+   "name": "工作人员面具(325=326=327)",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Attendants Mask"
+  },
+  {
+   "id": 325,
+   "name": "贵族面具(325=326=327)",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Aristrocrats Mask"
+  },
+  {
+   "id": 327,
+   "name": "黑市商品清单(325=326=327)",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Black Market Inventory"
+  },
+  {
+   "id": 329,
+   "name": "盗贼服",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Brigands Garb"
+  },
+  {
+   "id": 328,
+   "name": "盗贼干部服",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Brigand Leaders Garb"
+  },
+  {
+   "id": 332,
+   "name": "亚芬的背包",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Alfyns Satchel"
+  },
+  {
+   "id": 334,
+   "name": "杰夫的背包",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Zephs Satchel"
+  },
+  {
+   "id": 337,
+   "name": "耶捷尔亚特的短剑",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "House Azelhart Dagger"
+  },
+  {
+   "id": 338,
+   "name": "优丝法的手帕",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Yusufas Handkerchief"
+  },
+  {
+   "id": 339,
+   "name": "左腕之男的地图",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Left hand Mans Map"
+  },
+  {
+   "id": 392,
+   "name": "河边的花",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "River Blossom"
+  },
+  {
+   "id": 340,
+   "name": "监狱的钥匙",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Dungeon Key"
+  },
+  {
+   "id": 344,
+   "name": "顶级牛奶",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Ambrosial Milk"
+  },
+  {
+   "id": 345,
+   "name": "帝王蟹",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Emperor Crab"
+  },
+  {
+   "id": 346,
+   "name": "大鸡的蛋",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Roc Egg"
+  },
+  {
+   "id": 348,
+   "name": "最后的作品",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Final Masterpiece"
+  },
+  {
+   "id": 349,
+   "name": "牛粪",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Cow Droppings"
+  },
+  {
+   "id": 350,
+   "name": "萝拉的记事本",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Lories Diary"
+  },
+  {
+   "id": 351,
+   "name": "明星的礼服",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Diva Dress"
+  },
+  {
+   "id": 352,
+   "name": "小虾酱",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Saucy Prawns"
+  },
+  {
+   "id": 354,
+   "name": "反乱之斧",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Rebels Axe"
+  },
+  {
+   "id": 355,
+   "name": "革命之剑",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Revolutionary Sword"
+  },
+  {
+   "id": 356,
+   "name": "反逆之枪",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Spear of Justice"
+  },
+  {
+   "id": 357,
+   "name": "大牙野猪的獠牙",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Giant Tusk"
+  },
+  {
+   "id": 358,
+   "name": "合适的木炭",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Satisfactory Coal"
+  },
+  {
+   "id": 359,
+   "name": "合适的麻秆",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Adequate Flax"
+  },
+  {
+   "id": 360,
+   "name": "合适的金属制容器",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Portable Pot"
+  },
+  {
+   "id": 361,
+   "name": "老人也能用的短弓",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Codger-friendly Bow"
+  },
+  {
+   "id": 363,
+   "name": "海兽之蛋",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Leviathan Egg"
+  },
+  {
+   "id": 365,
+   "name": "甜菜根",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Beetroot"
+  },
+  {
+   "id": 369,
+   "name": "欧亚威尔产磨刀石",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Orewell Whetstone"
+  },
+  {
+   "id": 370,
+   "name": "善治的地毯",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Gendys Footcloth"
+  },
+  {
+   "id": 375,
+   "name": "拜伦的戒指",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Byrons Ring"
+  },
+  {
+   "id": 379,
+   "name": "索克拉斯之剑",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Sword of Sokrath"
+  },
+  {
+   "id": 380,
+   "name": "异国的冒险物语",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Tales from a Faraway Land"
+  },
+  {
+   "id": 381,
+   "name": "蓝道尔家管家的记事本",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "House Landar Records"
+  },
+  {
+   "id": 384,
+   "name": "纪念之剑",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Memorial Sword"
+  },
+  {
+   "id": 385,
+   "name": "学习用具",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Tools of Learning"
+  },
+  {
+   "id": 386,
+   "name": "冒险家的装备",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Adventurers Attire"
+  },
+  {
+   "id": 387,
+   "name": "老旧的挂毯",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Timeworn Tapestry"
+  },
+  {
+   "id": 388,
+   "name": "密封的信件",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Tightly Sealed Envelope"
+  },
+  {
+   "id": 389,
+   "name": "魔剑「大蛇杀手」",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Snakesbane"
+  },
+  {
+   "id": 390,
+   "name": "杰夫的信",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter from Zeph"
+  },
+  {
+   "id": 391,
+   "name": "图书馆员的信",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter from Mercedes"
+  },
+  {
+   "id": 394,
+   "name": "传家之宝的项链",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Memorial Necklace"
+  },
+  {
+   "id": 395,
+   "name": "约顿之角",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Jotunn Horn"
+  },
+  {
+   "id": 396,
+   "name": "巨大的蛋",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Giant Egg"
+  },
+  {
+   "id": 397,
+   "name": "誓约的勋章",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Mercenary Crest"
+  },
+  {
+   "id": 398,
+   "name": "雨果的记事本",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Hugos Journal"
+  },
+  {
+   "id": 399,
+   "name": "回忆草",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Mind me always"
+  },
+  {
+   "id": 400,
+   "name": "想写在日记上的逸品",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Astonishing Object"
+  },
+  {
+   "id": 401,
+   "name": "想写在日记上的绝品",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Incredible Item"
+  },
+  {
+   "id": 402,
+   "name": "想写在日记上的名品",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Marvelous Memento"
+  },
+  {
+   "id": 403,
+   "name": "四轴花",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Quatrait Bloom"
+  },
+  {
+   "id": 404,
+   "name": "龙蛋",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Dragon Egg"
+  },
+  {
+   "id": 406,
+   "name": "来自诺雅的信",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Letter from Noa"
+  },
+  {
+   "id": 407,
+   "name": "青金石",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Lapis Lazuli"
+  },
+  {
+   "id": 405,
+   "name": "大狼的獠牙",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "Direwolf Fang"
+  },
+  {
+   "id": 408,
+   "name": "古代荷鲁布尔古语辞典",
+   "type": 13,
+   "type_name": "贵重物品",
+   "en": "High Hornburgian Dictionary"
+  },
+  {
+   "id": 658,
+   "name": "安全的路线",
+   "type": 14,
+   "type_name": "情报",
+   "en": "A Safe Route"
+  },
+  {
+   "id": 586,
+   "name": "纺织品的活用法",
+   "type": 14,
+   "type_name": "情报",
+   "en": "A Use for Textiles"
+  },
+  {
+   "id": 886,
+   "name": "阿尔法丝之诗",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Alphass Poem"
+  },
+  {
+   "id": 506,
+   "name": "杀人事件的真相",
+   "type": 14,
+   "type_name": "情报",
+   "en": "An Eyewitness Account"
+  },
+  {
+   "id": 868,
+   "name": "阿奇博德的弱点",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Archibolds Weak Points"
+  },
+  {
+   "id": 878,
+   "name": "拜伦家的祖谱",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Byron Family Lineage"
+  },
+  {
+   "id": 758,
+   "name": "部族长的行程",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Chieftains Schedule"
+  },
+  {
+   "id": 752,
+   "name": "黄金都市的传说",
+   "type": 14,
+   "type_name": "情报",
+   "en": "City of Gold"
+  },
+  {
+   "id": 677,
+   "name": "多明尼克的悔恨",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dominics Remorse"
+  },
+  {
+   "id": 676,
+   "name": "讨厌人类的多明尼克",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dominics Seclusion"
+  },
+  {
+   "id": 695,
+   "name": "多明尼克的烦恼",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dominics Troubles"
+  },
+  {
+   "id": 634,
+   "name": "唐纳文的情况",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Donovans Condition"
+  },
+  {
+   "id": 844,
+   "name": "克里夫兰多的龙",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dragon of the Clifflands"
+  },
+  {
+   "id": 525,
+   "name": "佛洛斯特兰多的龙",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dragon of the Frostlands"
+  },
+  {
+   "id": 671,
+   "name": "哈伊兰多的龙",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Dragon of the highlands"
+  },
+  {
+   "id": 799,
+   "name": "提早融雪",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Early Ice Thawing"
+  },
+  {
+   "id": 761,
+   "name": "药的制作法",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Elixir Recipe"
+  },
+  {
+   "id": 865,
+   "name": "艾斯塔达斯的况状",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Estadass Condition"
+  },
+  {
+   "id": 864,
+   "name": "斗剑士的父亲",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Father and Fighter"
+  },
+  {
+   "id": 884,
+   "name": "《禁忌的黄金》",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Forbidden Gold"
+  },
+  {
+   "id": 885,
+   "name": "《边狱之书》",
+   "type": 14,
+   "type_name": "情报",
+   "en": "From the Far Reaches of Hell"
+  },
+  {
+   "id": 624,
+   "name": "蓝萤苔的事",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Gossip of Glowworm Moss"
+  },
+  {
+   "id": 718,
+   "name": "守墓人的情报",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Gravekeepers Information"
+  },
+  {
+   "id": 869,
+   "name": "古斯塔夫的弱点",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Gustavs Weak Points"
+  },
+  {
+   "id": 808,
+   "name": "克里夫兰多的历史",
+   "type": 14,
+   "type_name": "情报",
+   "en": "History of the Cliftlands"
+  },
+  {
+   "id": 524,
+   "name": "弗罗斯特兰多的历史",
+   "type": 14,
+   "type_name": "情报",
+   "en": "History of the Frostlands"
+  },
+  {
+   "id": 879,
+   "name": "伍多兰多的历史",
+   "type": 14,
+   "type_name": "情报",
+   "en": "History of the Woodlands"
+  },
+  {
+   "id": 852,
+   "name": "养虎的方法",
+   "type": 14,
+   "type_name": "情报",
+   "en": "How to Train a Tiger"
+  },
+  {
+   "id": 867,
+   "name": "约书亚的弱点",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Joshuas Weak Points"
+  },
+  {
+   "id": 655,
+   "name": "新生活",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Laras New Life"
+  },
+  {
+   "id": 563,
+   "name": "图书馆员的证词",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Librarians Testimony"
+  },
+  {
+   "id": 860,
+   "name": "义贼　玛尔达盗贼团",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Martas Gang"
+  },
+  {
+   "id": 773,
+   "name": "梅莉儿的过去",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Meryls Past"
+  },
+  {
+   "id": 866,
+   "name": "蒙德尔的况状",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Mont DOrs Condition"
+  },
+  {
+   "id": 760,
+   "name": "咬了妮娜的魔物",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Ninas Secret"
+  },
+  {
+   "id": 843,
+   "name": "欧根的胡言乱语",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Ogens Mutterings"
+  },
+  {
+   "id": 781,
+   "name": "西北方老婆婆的病情",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Old Woman to the Northwest"
+  },
+  {
+   "id": 776,
+   "name": "东南方老婆婆的病情",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Old Woman to the Southeast"
+  },
+  {
+   "id": 809,
+   "name": "改善贫民生活计画",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Project Plans"
+  },
+  {
+   "id": 518,
+   "name": "某圣火骑士的传闻",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Rumors of Knight Ardante"
+  },
+  {
+   "id": 565,
+   "name": "拉塞尔的近况",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Russells Situation"
+  },
+  {
+   "id": 853,
+   "name": "魔物操控人的传说",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Tale of the Beast Tamers"
+  },
+  {
+   "id": 675,
+   "name": "书被卖去哪里",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Books Whereabouts"
+  },
+  {
+   "id": 696,
+   "name": "贵族兰道尔最后的下场",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Fall of House Landar"
+  },
+  {
+   "id": 681,
+   "name": "艾巴霍多的堡垒",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Fortress of Everhold"
+  },
+  {
+   "id": 743,
+   "name": "驱使大蛇的男子",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Giant Serpents"
+  },
+  {
+   "id": 564,
+   "name": "守卫的近况",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Guard's Situation"
+  },
+  {
+   "id": 573,
+   "name": "校长的近况",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Headmasters Situation"
+  },
+  {
+   "id": 570,
+   "name": "名为猛辣椒的植物",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Jellypeno"
+  },
+  {
+   "id": 882,
+   "name": "壁画的内容",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Murals Meaning"
+  },
+  {
+   "id": 825,
+   "name": "下水道的情报",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Sewers"
+  },
+  {
+   "id": 569,
+   "name": "索克拉丝之诗",
+   "type": 14,
+   "type_name": "情报",
+   "en": "The Song of Sokrath"
+  },
+  {
+   "id": 780,
+   "name": "感情很好的老婆婆们",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Tidings of Elderly Friends"
+  },
+  {
+   "id": 883,
+   "name": "《十二天之书第７卷》",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Trial of the Twelve"
+  },
+  {
+   "id": 0,
+   "name": "凡妮莎的去向（不知道ID）",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Vanessa's Destination"
+  },
+  {
+   "id": 603,
+   "name": "大狼出现的地方",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Where the Direwolf Prowls"
+  },
+  {
+   "id": 549,
+   "name": "大牙野猪的生态",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Where the Giant Boar Roams"
+  },
+  {
+   "id": 507,
+   "name": "冰之巨人沉眠之处",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Where the Ice Giant Sleeps"
+  },
+  {
+   "id": 823,
+   "name": "事件的发生地点",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Where the Incidents Happened"
+  },
+  {
+   "id": 826,
+   "name": "不去扫墓的理由",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Why She Doesnt Visit Geoffrey"
+  },
+  {
+   "id": 824,
+   "name": "目击证词",
+   "type": 14,
+   "type_name": "情报",
+   "en": "Witness Testimony"
+  }
+ ]
+}

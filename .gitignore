@@ -1,0 +1,38 @@
+# Game dump / local reverse-engineering trees (huge)
+afb02f5bbd8d0d94fe47e171a61cd51ee2ffeb73/
+Octopath_Traveler 1/
+
+# Personal working saves at repo root (keep samples/)
+/SaveData1.sav
+*.sav.bak
+
+# Logs
+*.log
+debug.log
+
+# Probe / debug artifacts under output
+OctopathTrackerOutput/_*
+OctopathTrackerOutput/*.csv
+OctopathTrackerOutput/*.txt
+OctopathTrackerOutput/*.sav
+OctopathTrackerOutput/*.js
+OctopathTrackerOutput/patch_*.cmd
+OctopathTrackerOutput/run_probes.cmd
+OctopathTrackerOutput/check_towns.ps1
+OctopathTrackerOutput/差分文件/
+OctopathTrackerOutput/octopath_collectibles.html
+OctopathTrackerOutput/generate_portable_tracker_log.txt
+
+# Keep published app assets (do not ignore these)
+!OctopathTrackerOutput/octopath_tracker_portable.html
+!OctopathTrackerOutput/index.html
+!OctopathTrackerOutput/samples/
+!OctopathTrackerOutput/samples/**
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.xlsx
+!info_zh_cn.xlsx
